@@ -1,0 +1,1501 @@
+"Education","Gross Household Income","Skill","Age","Marrital Status","Country","Gender","WeightedAIS","Vote"
+"17-19","Level 3 40~59k","Level 6","Age46-65","Married","England","Male",-0.06742107078115,0
+"16 or under","Level 1 0~19k","Level 5","Age46-65","Single","England","Female",2.17693758808178,1
+"20 or above","Level 1 0~19k","Level 2","Age19-35","Single","Scotland","Male",-0.0918033187066782,0
+"20 or above","Level 4 60~99k","Level 7","Age36-45","Married","Wales","Female",-0.00735896714137135,0
+"17-19","Level 3 40~59k","Level 6","Age66-85","Married","England","Male",-0.231789617379961,0
+"17-19","Level 3 40~59k","Level 7","Age46-65","Married","Wales","Male",0.125169772606401,1
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Single","England","Female",-0.973784502302676,0
+"16 or under","Level 2 20~39k","Level 5","Age66-85","Married","England","Male",-0.78977319234745,0
+"20 or above","Level 1 0~19k","Level 5","Age46-65","Single","England","Female",0.0879209534378173,1
+"16 or under","Level 1 0~19k","Level 3","Age66-85","Married","England","Male",0.770165434348911,1
+"16 or under","Level 2 20~39k","Level 6","Age66-85","Married","England","Male",0.138830102211079,1
+"17-19","Level 3 40~59k","Level 6","Age46-65","Married","Scotland","Male",0.267529039205159,0
+"17-19","Level 4 60~99k","Level 8","Age66-85","Married","England","Male",0.158880933125816,0
+"17-19","Level 1 0~19k","Level 5","Age66-85","Single","England","Female",0.977540800384361,1
+"20 or above","Level 1 0~19k","Level 2","Age46-65","Single","England","Female",0.467224045375328,0
+"20 or above","Level 2 20~39k","Level 6","Age36-45","Single","England","Female",-4.10589767818827,0
+"20 or above","Level 5 100k or above","Level 6","Age36-45","Married","England","Male",0.279983727377275,1
+"20 or above","Level 1 0~19k","Level 6","AgeOver85","Single","Wales","Female",-0.0935100168536867,0
+"20 or above","Level 1 0~19k","Level 5","AgeOver85","Single","Wales","Female",-0.083164076305964,0
+"16 or under","Level 1 0~19k","Level 1","Age36-45","Single","Wales","Male",0.714790191460444,1
+"17-19","Level 2 20~39k","Level 6","Age46-65","Married","Scotland","Male",0.376004472921964,0
+"16 or under","Level 1 0~19k","Level 2","Age46-65","Married","England","Female",-0.206300375348985,1
+"17-19","Level 2 20~39k","Level 5","Age46-65","Single","England","Female",0.767689592790038,0
+"17-19","Level 2 20~39k","Level 4","Age66-85","Single","England","Female",0.187827918545041,0
+"20 or above","Level 2 20~39k","Level 7","Age46-65","Single","Scotland","Female",-0.392178849401861,0
+"17-19","Level 1 0~19k","Level 5","Age36-45","Married","England","Female",0.265211716061977,1
+"17-19","Level 1 0~19k","Level 5","Age46-65","Married","England","Female",0.28812076591379,1
+"20 or above","Level 4 60~99k","Level 1","Age46-65","Married","England","Female",0.589019717782066,0
+"20 or above","Level 2 20~39k","Level 6","AgeOver85","Single","England","Male",0.829988197877168,1
+"17-19","Level 3 40~59k","Level 5","Age46-65","Married","England","Female",-0.125183750316686,1
+"17-19","Level 3 40~59k","Level 6","Age36-45","Married","England","Male",0.187292612609452,0
+"20 or above","Level 5 100k or above","Level 7","Age36-45","Married","England","Male",-1.08657452750246,0
+"20 or above","Level 1 0~19k","Level 5","Age66-85","Single","England","Female",-0.21105335833217,1
+"16 or under","Level 1 0~19k","Level 2","Age46-65","Single","England","Female",0.695702062349698,1
+"16 or under","Level 2 20~39k","Level 6","Age46-65","Married","Scotland","Male",0.1355593098357,1
+"20 or above","Level 4 60~99k","Level 7","Age66-85","Married","England","Female",-0.0960554857240669,0
+"20 or above","Level 4 60~99k","Level 6","Age46-65","Married","England","Female",-0.510354502667136,0
+"16 or under","Level 1 0~19k","Level 5","Age46-65","Married","England","Female",2.60589021835338,1
+"20 or above","Level 4 60~99k","Level 7","Age36-45","Married","England","Female",-0.550087365812621,0
+"16 or under","Level 1 0~19k","Level 2","Age66-85","Married","England","Male",1.27278999949088,1
+"17-19","Level 4 60~99k","Level 7","Age36-45","Married","England","Male",0.410347161804656,1
+"16 or under","Level 2 20~39k","Level 6","Age46-65","Single","England","Female",0.316103299683897,1
+"16 or under","Level 1 0~19k","Level 4","Age66-85","Single","England","Male",0.241091683150695,1
+"17-19","Level 1 0~19k","Level 6","Age46-65","Single","England","Female",0.663531821068743,1
+"20 or above","Level 2 20~39k","Level 7","Age46-65","Single","Wales","Male",-0.0353170033473097,0
+"16 or under","Level 2 20~39k","Level 2","Age66-85","Single","England","Male",0.335262183991283,1
+"16 or under","Level 1 0~19k","Level 3","Age46-65","Single","England","Male",-0.145242731984237,1
+"17-19","Level 1 0~19k","Level 2","Age36-45","Single","Wales","Female",0.407505853641731,0
+"20 or above","Level 2 20~39k","Level 6","Age36-45","Single","England","Female",0.710135000568108,1
+"20 or above","Level 1 0~19k","Level 7","Age46-65","Single","Wales","Female",-0.0481707465886101,0
+"16 or under","Level 1 0~19k","Level 5","Age46-65","Single","England","Female",0.871582833065154,1
+"16 or under","Level 2 20~39k","Level 3","Age46-65","Married","England","Male",0.692856248852068,1
+"17-19","Level 2 20~39k","Level 5","Age36-45","Married","England","Male",0.479468566164985,1
+"16 or under","Level 2 20~39k","Level 7","Age66-85","Married","England","Male",0.23427762824963,1
+"20 or above","Level 2 20~39k","Level 6","Age36-45","Single","England","Female",-0.247012225349505,0
+"20 or above","Level 3 40~59k","Level 4","Age46-65","Single","England","Male",0.618948017928776,1
+"17-19","Level 2 20~39k","Level 6","Age46-65","Married","England","Female",1.31943135364226,1
+"20 or above","Level 4 60~99k","Level 6","Age46-65","Married","England","Male",0.37772278747268,0
+"16 or under","Level 2 20~39k","Level 2","Age66-85","Married","England","Male",-0.52562067209804,0
+"17-19","Level 1 0~19k","Level 3","Age66-85","Married","Wales","Male",-0.137855530003374,0
+"20 or above","Level 2 20~39k","Level 5","Age36-45","Married","England","Male",-2.04949981377523,0
+"16 or under","Level 1 0~19k","Level 1","Age66-85","Married","England","Female",0.495869223799586,1
+"20 or above","Level 2 20~39k","Level 8","Age36-45","Married","England","Male",-0.575404728854588,0
+"20 or above","Level 2 20~39k","Level 5","AgeOver85","Single","Scotland","Female",0.545289077246649,0
+"20 or above","Level 1 0~19k","Level 7","Age66-85","Married","England","Male",0.777940687745815,1
+"16 or under","Level 1 0~19k","Level 5","Age46-65","Single","Scotland","Male",-0.307034291017538,0
+"20 or above","Level 3 40~59k","Level 6","Age46-65","Married","Wales","Male",0.458827579417053,0
+"16 or under","Level 1 0~19k","Level 6","Age66-85","Single","England","Male",-0.485973218005097,0
+"16 or under","Level 2 20~39k","Level 6","Age66-85","Married","England","Male",-0.585938448416901,0
+"17-19","Level 1 0~19k","Level 6","Age46-65","Married","England","Male",0.154393730694854,1
+"16 or under","Level 1 0~19k","Level 5","Age46-65","Single","England","Male",-0.564344850709901,0
+"20 or above","Level 1 0~19k","Level 8","Age66-85","Single","Wales","Female",-0.123440370580354,0
+"16 or under","Level 2 20~39k","Level 4","Age66-85","Single","Wales","Male",0.169216348984158,1
+"16 or under","Level 2 20~39k","Level 7","Age36-45","Single","England","Male",-0.211585024063989,0
+"17-19","Level 3 40~59k","Level 6","Age46-65","Married","Scotland","Female",0.408756701767408,1
+"20 or above","Level 1 0~19k","Level 6","Age46-65","Married","Scotland","Male",0.110673765546828,1
+"16 or under","Level 1 0~19k","Level 3","Age36-45","Single","Scotland","Male",0,0
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Married","England","Female",0.690517333678592,1
+"20 or above","Level 5 100k or above","Level 7","Age46-65","Married","Scotland","Male",-0.0194092621809571,0
+"16 or under","Level 1 0~19k","Level 2","AgeOver85","Married","England","Female",0.672207583674942,1
+"17-19","Level 2 20~39k","Level 6","Age36-45","Single","England","Male",0.427476132892986,0
+"16 or under","Level 2 20~39k","Level 3","Age46-65","Married","England","Male",0.373181706340779,1
+"20 or above","Level 4 60~99k","Level 8","Age46-65","Married","England","Male",-0.89095111094912,0
+"17-19","Level 3 40~59k","Level 5","Age36-45","Married","Wales","Female",0.262963211224771,1
+"16 or under","Level 2 20~39k","Level 2","Age66-85","Married","England","Male",0.835109202820032,1
+"16 or under","Level 3 40~59k","Level 4","Age46-65","Married","England","Male",0.73152044693032,0
+"20 or above","Level 3 40~59k","Level 6","Age66-85","Married","Scotland","Male",-0.0962701006630965,0
+"16 or under","Level 1 0~19k","Level 1","Age46-65","Married","England","Female",-0.299452866583736,0
+"16 or under","Level 1 0~19k","Level 6","Age66-85","Single","Wales","Female",-0.154442378171248,0
+"16 or under","Level 1 0~19k","Level 2","Age46-65","Single","England","Female",-1.22988504315172,0
+"17-19","Level 3 40~59k","Level 5","Age36-45","Married","England","Male",-0.340971159113722,0
+"16 or under","Level 1 0~19k","Level 2","Age66-85","Single","Scotland","Male",-0.0510740092914947,0
+"20 or above","Level 2 20~39k","Level 5","Age46-65","Married","England","Female",0.182414667738102,1
+"20 or above","Level 2 20~39k","Level 7","Age46-65","Married","England","Male",-0.087596349546905,0
+"17-19","Level 1 0~19k","Level 6","Age66-85","Single","Scotland","Male",0.0985441238497415,1
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Married","England","Male",-0.0555534760668494,0
+"20 or above","Level 5 100k or above","Level 1","Age36-45","Single","England","Male",-0.554401370159251,0
+"20 or above","Level 4 60~99k","Level 7","Age46-65","Married","Scotland","Male",-0.0479227825720021,0
+"20 or above","Level 3 40~59k","Level 7","Age36-45","Single","England","Male",-0.300618416866941,0
+"17-19","Level 2 20~39k","Level 5","Age19-35","Single","Wales","Male",-0.800028223510083,0
+"20 or above","Level 1 0~19k","Level 5","Age46-65","Single","Scotland","Male",-0.113648680526755,0
+"16 or under","Level 1 0~19k","Level 1","AgeOver85","Single","Wales","Male",1.134599,1
+"16 or under","Level 1 0~19k","Level 6","Age46-65","Married","England","Male",2.03782086441068,0
+"17-19","Level 2 20~39k","Level 6","Age46-65","Single","Wales","Female",0,0
+"20 or above","Level 2 20~39k","Level 2","Age36-45","Single","Scotland","Male",-0.10914035,0
+"17-19","Level 3 40~59k","Level 6","AgeOver85","Married","England","Male",2.84671331783047,1
+"17-19","Level 2 20~39k","Level 5","Age66-85","Single","Wales","Female",-0.0800129837333557,0
+"20 or above","Level 1 0~19k","Level 5","Age46-65","Single","England","Male",-0.927739509940497,0
+"16 or under","Level 1 0~19k","Level 3","Age46-65","Single","England","Male",0.248387311659883,1
+"17-19","Level 2 20~39k","Level 8","Age46-65","Married","England","Male",0.434369889236385,1
+"17-19","Level 2 20~39k","Level 2","Age36-45","Single","Scotland","Female",0.304236816912681,1
+"20 or above","Level 3 40~59k","Level 7","Age36-45","Married","England","Female",0.736508159334086,0
+"16 or under","Level 4 60~99k","Level 6","Age46-65","Married","England","Male",0.897766443521167,0
+"20 or above","Level 3 40~59k","Level 6","Age36-45","Married","England","Female",-0.364261185457424,0
+"20 or above","Level 1 0~19k","Level 6","Age46-65","Single","Scotland","Male",-0.108937520753928,0
+"17-19","Level 1 0~19k","Level 5","Age46-65","Married","Wales","Female",0.326487636665361,0
+"16 or under","Level 2 20~39k","Level 1","Age46-65","Married","England","Male",1.42028794572613,1
+"20 or above","Level 3 40~59k","Level 6","Age66-85","Married","Wales","Male",-0.111646762566224,0
+"17-19","Level 2 20~39k","Level 5","Age36-45","Single","England","Female",-0.533393881113268,0
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Married","Scotland","Female",-0.0727467490810368,0
+"16 or under","Level 1 0~19k","Level 6","Age66-85","Single","Wales","Male",0.368912581472341,0
+"16 or under","Level 3 40~59k","Level 7","Age46-65","Married","England","Male",-0.548123951861774,0
+"16 or under","Level 1 0~19k","Level 6","Age66-85","Married","Scotland","Male",0,0
+"16 or under","Level 1 0~19k","Level 5","Age46-65","Single","England","Female",0.254668455275673,1
+"17-19","Level 1 0~19k","Level 1","Age46-65","Single","England","Female",0.421042133979359,1
+"16 or under","Level 2 20~39k","Level 7","Age46-65","Married","England","Male",0.0627786955896412,1
+"20 or above","Level 2 20~39k","Level 1","AgeOver85","Single","England","Female",-1.49039669119217,0
+"20 or above","Level 4 60~99k","Level 6","Age46-65","Single","Wales","Male",0.0403554099527718,1
+"16 or under","Level 1 0~19k","Level 3","Age46-65","Single","England","Male",0.257434561950133,1
+"20 or above","Level 4 60~99k","Level 6","Age46-65","Single","England","Male",-0.0497612528115431,0
+"20 or above","Level 3 40~59k","Level 7","Age46-65","Married","England","Male",-0.243423121435915,0
+"20 or above","Level 3 40~59k","Level 6","Age66-85","Married","Wales","Male",-0.0234376315608841,0
+"20 or above","Level 3 40~59k","Level 7","Age46-65","Single","England","Female",-0.440605794364334,0
+"16 or under","Level 1 0~19k","Level 6","Age66-85","Single","Scotland","Female",-0.288496202343176,0
+"17-19","Level 2 20~39k","Level 7","AgeOver85","Single","Wales","Male",0.395581594335915,0
+"17-19","Level 4 60~99k","Level 7","Age46-65","Married","England","Female",0,0
+"17-19","Level 2 20~39k","Level 7","Age66-85","Married","Wales","Male",-0.157797454825795,0
+"20 or above","Level 3 40~59k","Level 6","Age36-45","Single","Wales","Female",-0.504628526768105,0
+"16 or under","Level 1 0~19k","Level 6","Age66-85","Single","England","Female",0.569182140576932,1
+"20 or above","Level 1 0~19k","Level 6","Age66-85","Single","England","Male",0.437306021810984,1
+"16 or under","Level 1 0~19k","Level 3","Age66-85","Single","England","Male",1.00366540094601,1
+"16 or under","Level 2 20~39k","Level 6","Age46-65","Married","England","Female",0.65526899840312,1
+"20 or above","Level 1 0~19k","Level 2","Age66-85","Married","Scotland","Male",0.0750069381023236,1
+"16 or under","Level 1 0~19k","Level 3","Age46-65","Single","England","Female",0.519061944348693,1
+"20 or above","Level 3 40~59k","Level 6","Age46-65","Married","England","Male",-0.0596432791010937,0
+"20 or above","Level 2 20~39k","Level 7","Age46-65","Married","England","Male",0.1144441632101,0
+"20 or above","Level 2 20~39k","Level 5","Age46-65","Married","Scotland","Female",-0.3910686,1
+"16 or under","Level 2 20~39k","Level 6","Age46-65","Single","England","Female",-0.342981220484093,0
+"20 or above","Level 3 40~59k","Level 6","AgeOver85","Married","England","Female",-0.266330446678679,0
+"16 or under","Level 2 20~39k","Level 3","Age46-65","Married","Wales","Male",0.244892308718882,1
+"17-19","Level 3 40~59k","Level 3","Age46-65","Single","England","Female",0.504101303329591,1
+"20 or above","Level 5 100k or above","Level 8","Age66-85","Single","England","Female",0.520715961819646,1
+"16 or under","Level 4 60~99k","Level 8","AgeOver85","Married","England","Male",-2.12985824177817,0
+"16 or under","Level 2 20~39k","Level 7","Age66-85","Married","England","Male",0.409002041774539,1
+"20 or above","Level 2 20~39k","Level 8","Age66-85","Married","Scotland","Male",0.339074086457247,0
+"16 or under","Level 2 20~39k","Level 5","Age36-45","Single","Wales","Female",0.446967777982514,1
+"16 or under","Level 1 0~19k","Level 2","Age46-65","Single","England","Female",-0.226217675501622,0
+"17-19","Level 1 0~19k","Level 5","Age46-65","Single","England","Male",0,0
+"16 or under","Level 1 0~19k","Level 2","Age46-65","Married","Wales","Female",0.315239722254672,1
+"17-19","Level 2 20~39k","Level 6","Age46-65","Married","Scotland","Female",-0.188586262342304,0
+"16 or under","Level 1 0~19k","Level 5","Age66-85","Married","England","Male",1.05157294033059,1
+"17-19","Level 2 20~39k","Level 5","Age46-65","Married","England","Male",0.3709333335188,0
+"16 or under","Level 2 20~39k","Level 6","Age46-65","Married","England","Female",-0.0979208713948676,1
+"17-19","Level 3 40~59k","Level 7","Age46-65","Married","England","Male",0.801786522106338,1
+"20 or above","Level 4 60~99k","Level 4","Age36-45","Married","England","Female",0.492928111774128,1
+"16 or under","Level 2 20~39k","Level 3","Age46-65","Married","Wales","Male",0.223433510109052,1
+"20 or above","Level 4 60~99k","Level 7","AgeOver85","Married","England","Female",2.30931889187335,0
+"20 or above","Level 2 20~39k","Level 8","Age46-65","Married","Wales","Male",-0.244932304432009,0
+"17-19","Level 1 0~19k","Level 5","Age36-45","Single","Wales","Male",-0.125893973553155,0
+"20 or above","Level 1 0~19k","Level 6","Age46-65","Single","Scotland","Male",-0.0762774480896279,1
+"20 or above","Level 5 100k or above","Level 8","AgeOver85","Married","England","Female",-0.400314728610047,0
+"20 or above","Level 3 40~59k","Level 7","Age46-65","Married","England","Male",0.223457301835928,1
+"20 or above","Level 5 100k or above","Level 7","Age46-65","Married","England","Male",0.539861,0
+"16 or under","Level 2 20~39k","Level 6","Age46-65","Married","England","Male",-0.181247259927707,0
+"20 or above","Level 5 100k or above","Level 7","Age46-65","Married","England","Male",-0.111713910942688,1
+"17-19","Level 4 60~99k","Level 5","Age36-45","Married","England","Male",0.348648644565247,1
+"20 or above","Level 4 60~99k","Level 5","Age19-35","Single","England","Female",-0.108997674136313,0
+"16 or under","Level 1 0~19k","Level 4","Age66-85","Married","England","Male",0.285824840227647,1
+"20 or above","Level 3 40~59k","Level 3","Age46-65","Married","England","Female",0.791504772598646,1
+"20 or above","Level 3 40~59k","Level 5","Age46-65","Married","Scotland","Male",-0.195943708303869,0
+"20 or above","Level 1 0~19k","Level 5","Age46-65","Single","Wales","Female",-0.0523977611260819,0
+"20 or above","Level 1 0~19k","Level 6","Age66-85","Single","England","Male",-0.239595578753067,0
+"16 or under","Level 1 0~19k","Level 5","AgeOver85","Single","Wales","Female",0.0679507094353663,0
+"17-19","Level 3 40~59k","Level 6","Age36-45","Single","England","Female",0.376152976159822,0
+"20 or above","Level 4 60~99k","Level 6","Age36-45","Married","England","Female",-0.217347307797634,0
+"17-19","Level 2 20~39k","Level 6","Age46-65","Married","Scotland","Male",-0.339074086457247,0
+"20 or above","Level 5 100k or above","Level 6","Age46-65","Married","Scotland","Male",-0.167072966714402,0
+"20 or above","Level 4 60~99k","Level 6","Age46-65","Married","England","Female",0.106813566953065,1
+"17-19","Level 2 20~39k","Level 7","Age36-45","Single","England","Male",-0.79519027841393,0
+"17-19","Level 1 0~19k","Level 6","Age46-65","Married","Wales","Female",0.583087862073888,0
+"17-19","Level 1 0~19k","Level 3","AgeOver85","Married","England","Male",0.817611324262849,1
+"16 or under","Level 1 0~19k","Level 1","Age36-45","Single","England","Male",0.225901771152383,0
+"16 or under","Level 1 0~19k","Level 3","Age66-85","Married","England","Male",0.4085278,1
+"20 or above","Level 2 20~39k","Level 3","Age66-85","Married","England","Male",0.0742889246318095,1
+"17-19","Level 3 40~59k","Level 6","Age36-45","Single","England","Male",0.779799153164487,1
+"16 or under","Level 2 20~39k","Level 4","Age46-65","Married","England","Female",0.279949458214049,1
+"20 or above","Level 2 20~39k","Level 6","AgeOver85","Single","England","Female",1.99389566638859,1
+"17-19","Level 3 40~59k","Level 6","Age46-65","Married","England","Female",-1.28337538742248,0
+"20 or above","Level 4 60~99k","Level 7","Age46-65","Married","Scotland","Male",-0.296824761962405,0
+"20 or above","Level 3 40~59k","Level 6","Age36-45","Single","Wales","Male",0.279105040747906,1
+"20 or above","Level 4 60~99k","Level 6","Age36-45","Single","England","Male",-1.41286585085554,0
+"17-19","Level 1 0~19k","Level 7","Age46-65","Single","England","Male",-0.669095558971128,0
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Married","Wales","Male",0.113962816111467,1
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Married","Wales","Male",0.114505321689608,1
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Married","England","Female",0.832310623585454,1
+"16 or under","Level 1 0~19k","Level 3","Age66-85","Single","England","Female",0.384555496123895,1
+"17-19","Level 4 60~99k","Level 6","Age46-65","Married","England","Male",-0.201436978380514,0
+"16 or under","Level 1 0~19k","Level 3","Age46-65","Single","England","Male",0.374709287528194,0
+"20 or above","Level 3 40~59k","Level 6","AgeOver85","Single","Wales","Female",0.545513349736882,0
+"20 or above","Level 3 40~59k","Level 8","AgeOver85","Married","England","Female",-0.3647655,0
+"16 or under","Level 1 0~19k","Level 3","Age46-65","Married","England","Male",0.252091729413422,1
+"20 or above","Level 1 0~19k","Level 4","Age46-65","Married","Scotland","Female",-0.037825624987628,0
+"16 or under","Level 2 20~39k","Level 6","Age36-45","Single","England","Male",2.58701623073878,0
+"20 or above","Level 4 60~99k","Level 4","Age46-65","Married","England","Male",-0.0716395976931317,0
+"20 or above","Level 3 40~59k","Level 1","AgeOver85","Single","England","Male",-0.234025440266461,0
+"20 or above","Level 1 0~19k","Level 6","Age46-65","Single","Wales","Female",0.0784882727541734,1
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Married","England","Female",0.391066331984143,0
+"17-19","Level 3 40~59k","Level 5","Age46-65","Married","Scotland","Female",0.0456270217580244,0
+"17-19","Level 3 40~59k","Level 6","Age46-65","Married","England","Male",1.25326833369141,1
+"17-19","Level 4 60~99k","Level 1","Age46-65","Single","England","Male",0.79612815056594,1
+"17-19","Level 3 40~59k","Level 7","Age46-65","Married","England","Male",-0.441751130468796,0
+"16 or under","Level 2 20~39k","Level 2","Age46-65","Single","England","Female",1.60298954209074,1
+"20 or above","Level 3 40~59k","Level 6","Age36-45","Single","England","Male",-0.146128249225757,0
+"17-19","Level 1 0~19k","Level 4","Age46-65","Single","Wales","Female",0.353615972027805,1
+"16 or under","Level 2 20~39k","Level 4","Age46-65","Married","England","Male",1.44255554354593,1
+"17-19","Level 3 40~59k","Level 6","AgeOver85","Single","England","Female",-0.075819583272012,0
+"17-19","Level 1 0~19k","Level 6","Age46-65","Married","England","Male",2.365985119953,1
+"17-19","Level 5 100k or above","Level 6","Age46-65","Married","England","Male",-0.167654912231811,1
+"17-19","Level 2 20~39k","Level 7","Age36-45","Single","England","Female",-0.332869956882363,0
+"20 or above","Level 5 100k or above","Level 7","Age36-45","Married","England","Male",0.0751788477992818,1
+"20 or above","Level 3 40~59k","Level 5","AgeOver85","Single","Scotland","Female",0.129628949863785,1
+"16 or under","Level 1 0~19k","Level 5","Age46-65","Single","England","Female",0.209377746467976,1
+"17-19","Level 1 0~19k","Level 4","Age66-85","Single","Scotland","Female",0.467688155150206,1
+"17-19","Level 4 60~99k","Level 5","AgeOver85","Single","England","Female",0.442861413415015,1
+"17-19","Level 2 20~39k","Level 5","AgeOver85","Married","England","Female",1.11309272917852,0
+"17-19","Level 2 20~39k","Level 4","Age46-65","Married","England","Male",0,0
+"20 or above","Level 2 20~39k","Level 5","Age46-65","Single","England","Male",-0.101691758656224,1
+"20 or above","Level 1 0~19k","Level 5","Age46-65","Single","England","Male",-0.220765004207278,0
+"16 or under","Level 1 0~19k","Level 2","Age46-65","Married","England","Female",0.640970593341276,1
+"17-19","Level 3 40~59k","Level 6","Age66-85","Married","Scotland","Male",0.0228858378794017,0
+"20 or above","Level 2 20~39k","Level 7","Age46-65","Single","England","Male",-0.173283732666566,0
+"17-19","Level 3 40~59k","Level 5","AgeOver85","Married","Wales","Male",-0.0271809822759147,0
+"20 or above","Level 3 40~59k","Level 6","Age46-65","Single","England","Female",0.00631340617261303,0
+"16 or under","Level 1 0~19k","Level 3","Age66-85","Married","England","Male",-1.08925910357923,1
+"16 or under","Level 3 40~59k","Level 3","Age36-45","Married","Scotland","Male",0.205935913488237,0
+"16 or under","Level 1 0~19k","Level 6","Age66-85","Single","England","Female",2.81778809763259,0
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Married","England","Female",0.814977138373177,1
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Single","England","Male",-0.0602790224580702,1
+"20 or above","Level 2 20~39k","Level 5","Age66-85","Married","England","Female",0.111086300881205,1
+"17-19","Level 4 60~99k","Level 6","Age46-65","Married","England","Female",-0.336469199663531,1
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Married","Scotland","Male",-0.0449556719494393,0
+"17-19","Level 5 100k or above","Level 8","Age46-65","Married","England","Female",0.492772206538921,1
+"20 or above","Level 3 40~59k","Level 3","AgeOver85","Single","Scotland","Female",-0.171556492292751,0
+"17-19","Level 2 20~39k","Level 5","Age36-45","Single","England","Female",0.619192561629615,0
+"17-19","Level 4 60~99k","Level 2","Age46-65","Married","England","Female",0.962787989910181,1
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Married","England","Male",-1.35887997927917,0
+"20 or above","Level 1 0~19k","Level 5","Age46-65","Single","Scotland","Female",0,0
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Single","England","Male",2.55106509321284,1
+"16 or under","Level 2 20~39k","Level 2","Age46-65","Single","England","Female",0.525611751755295,1
+"16 or under","Level 1 0~19k","Level 6","Age46-65","Single","England","Male",1.71211947881822,1
+"16 or under","Level 1 0~19k","Level 4","Age46-65","Single","England","Male",0,0
+"20 or above","Level 4 60~99k","Level 3","AgeOver85","Married","Scotland","Male",-0.223811000063946,0
+"16 or under","Level 1 0~19k","Level 3","Age66-85","Married","England","Female",1.28907275510403,1
+"16 or under","Level 2 20~39k","Level 6","Age46-65","Married","England","Male",0.811478587668526,1
+"16 or under","Level 1 0~19k","Level 4","Age66-85","Married","England","Male",0.4399393324361,1
+"16 or under","Level 1 0~19k","Level 5","Age46-65","Married","England","Male",0.494961706212958,1
+"17-19","Level 2 20~39k","Level 6","Age46-65","Married","England","Female",0.385627582353313,1
+"16 or under","Level 3 40~59k","Level 2","Age46-65","Single","Wales","Female",0.239521322918648,1
+"20 or above","Level 5 100k or above","Level 1","Age36-45","Married","England","Male",0.270182136238986,0
+"17-19","Level 4 60~99k","Level 6","Age36-45","Married","England","Male",-2.53704962625725,0
+"20 or above","Level 1 0~19k","Level 6","AgeOver85","Single","England","Female",-0.150983180959241,0
+"16 or under","Level 1 0~19k","Level 1","Age46-65","Single","Wales","Male",0.222913826301953,1
+"17-19","Level 2 20~39k","Level 5","Age46-65","Single","Scotland","Male",0.0171946794594155,0
+"16 or under","Level 2 20~39k","Level 5","Age66-85","Married","England","Female",0.401251234019135,1
+"20 or above","Level 1 0~19k","Level 5","Age36-45","Single","Scotland","Female",-0.0676830598012253,0
+"20 or above","Level 4 60~99k","Level 5","AgeOver85","Single","England","Male",-0.130883472643303,0
+"20 or above","Level 2 20~39k","Level 7","Age46-65","Married","Scotland","Male",-0.0733833984057565,0
+"16 or under","Level 1 0~19k","Level 6","Age46-65","Married","England","Female",0.215253901103777,1
+"16 or under","Level 4 60~99k","Level 6","Age46-65","Married","Scotland","Male",-0.111418899219716,0
+"20 or above","Level 2 20~39k","Level 5","Age19-35","Single","England","Female",-0.0859867749630462,0
+"16 or under","Level 2 20~39k","Level 3","Age66-85","Married","Scotland","Male",0.592423715060153,0
+"20 or above","Level 3 40~59k","Level 7","Age46-65","Married","Scotland","Male",-0.0750608529795407,0
+"17-19","Level 1 0~19k","Level 5","Age46-65","Married","England","Female",0.0590999984989613,1
+"16 or under","Level 1 0~19k","Level 2","Age36-45","Single","Scotland","Female",0.117466401469509,1
+"16 or under","Level 2 20~39k","Level 2","Age66-85","Married","England","Male",-0.956264082165405,0
+"20 or above","Level 3 40~59k","Level 6","Age66-85","Married","England","Male",-0.111127897094243,0
+"16 or under","Level 2 20~39k","Level 6","Age46-65","Married","Scotland","Male",0.184126982057391,1
+"17-19","Level 2 20~39k","Level 5","Age66-85","Married","England","Female",0.622221491929794,1
+"20 or above","Level 3 40~59k","Level 7","Age46-65","Single","Scotland","Male",0,0
+"16 or under","Level 2 20~39k","Level 1","Age46-65","Single","Scotland","Male",-0.0188329858709103,0
+"16 or under","Level 2 20~39k","Level 6","Age66-85","Married","England","Female",0.45407387258097,1
+"16 or under","Level 1 0~19k","Level 3","Age66-85","Married","Scotland","Male",-0.177085549568873,0
+"16 or under","Level 2 20~39k","Level 8","Age46-65","Married","Wales","Female",0.137337155219412,0
+"20 or above","Level 2 20~39k","Level 5","Age19-35","Married","Scotland","Female",0.220430520327456,1
+"20 or above","Level 3 40~59k","Level 7","Age66-85","Married","Scotland","Male",0.0485432495233979,1
+"16 or under","Level 3 40~59k","Level 6","Age66-85","Married","England","Female",0.752239096367675,1
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Married","England","Female",-0.244222107949939,0
+"20 or above","Level 1 0~19k","Level 2","AgeOver85","Single","England","Female",-2.12475621047587,0
+"17-19","Level 3 40~59k","Level 7","Age46-65","Married","England","Female",-0.0954897422980563,1
+"17-19","Level 1 0~19k","Level 4","Age66-85","Single","England","Female",0.450074673262402,1
+"20 or above","Level 1 0~19k","Level 5","Age46-65","Single","England","Male",-0.134368303298315,0
+"17-19","Level 5 100k or above","Level 8","Age66-85","Married","England","Male",0.220879679696157,0
+"20 or above","Level 2 20~39k","Level 6","Age36-45","Single","England","Female",-0.450070507306738,0
+"16 or under","Level 1 0~19k","Level 5","Age66-85","Single","England","Male",0.176127660290101,1
+"20 or above","Level 3 40~59k","Level 2","Age46-65","Married","England","Female",1.50872261302402,1
+"17-19","Level 2 20~39k","Level 2","Age46-65","Married","England","Female",1.44488811838998,0
+"20 or above","Level 1 0~19k","Level 4","Age66-85","Single","Scotland","Male",0.123333610209177,0
+"20 or above","Level 2 20~39k","Level 6","AgeOver85","Single","England","Female",-0.380114792193472,0
+"20 or above","Level 2 20~39k","Level 6","AgeOver85","Single","England","Female",-0.459929096847685,0
+"16 or under","Level 4 60~99k","Level 4","Age66-85","Married","England","Male",0.298098935895712,1
+"16 or under","Level 2 20~39k","Level 6","Age46-65","Married","England","Female",0.373525591404222,1
+"20 or above","Level 4 60~99k","Level 6","Age36-45","Married","England","Female",-0.0290470127116079,0
+"20 or above","Level 1 0~19k","Level 6","Age66-85","Single","Scotland","Male",-0.17583841545004,0
+"20 or above","Level 4 60~99k","Level 7","Age66-85","Married","Scotland","Male",-0.12487427884554,0
+"20 or above","Level 2 20~39k","Level 5","Age36-45","Single","Wales","Female",-0.71478543533895,0
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Single","England","Female",-0.0757109387785222,0
+"17-19","Level 1 0~19k","Level 4","Age46-65","Single","England","Female",0.437354220089721,1
+"17-19","Level 1 0~19k","Level 4","Age46-65","Married","Scotland","Male",0.256901656892153,1
+"20 or above","Level 4 60~99k","Level 6","Age66-85","Married","England","Male",0.589084506453415,0
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Married","England","Male",-0.0509440109691582,0
+"20 or above","Level 3 40~59k","Level 5","Age46-65","Married","England","Female",-0.0279157303871721,0
+"16 or under","Level 1 0~19k","Level 1","Age46-65","Single","Wales","Male",-0.357796159162047,0
+"16 or under","Level 1 0~19k","Level 3","Age19-35","Married","England","Female",0.638184389454732,1
+"20 or above","Level 5 100k or above","Level 6","Age46-65","Single","England","Female",0.242501599185524,1
+"20 or above","Level 5 100k or above","Level 6","Age36-45","Married","Scotland","Male",0.301403263321754,0
+"17-19","Level 2 20~39k","Level 5","Age46-65","Single","England","Female",-0.139987094141158,0
+"16 or under","Level 1 0~19k","Level 2","Age46-65","Single","Scotland","Male",-0.19320675,0
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Married","England","Male",1.16160122525828,1
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Married","England","Male",-0.0705293436297304,0
+"20 or above","Level 1 0~19k","Level 5","AgeOver85","Single","England","Female",-1.50391556419425,0
+"17-19","Level 1 0~19k","Level 2","Age46-65","Married","England","Male",0.845463926542495,1
+"20 or above","Level 1 0~19k","Level 3","Age66-85","Single","England","Male",1.97551507918956,0
+"16 or under","Level 2 20~39k","Level 6","Age46-65","Married","Wales","Male",0.515859566422793,1
+"20 or above","Level 2 20~39k","Level 5","Age36-45","Married","England","Female",0.234447264905148,0
+"20 or above","Level 1 0~19k","Level 6","Age46-65","Single","Scotland","Male",-0.0380623912301912,0
+"16 or under","Level 1 0~19k","Level 2","Age36-45","Single","England","Female",-2.22357675,0
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Single","Scotland","Female",-0.0355998924239511,0
+"17-19","Level 2 20~39k","Level 6","AgeOver85","Single","England","Female",0.797910679319195,0
+"16 or under","Level 2 20~39k","Level 2","Age46-65","Married","Scotland","Male",-0.12933423481502,0
+"16 or under","Level 2 20~39k","Level 5","Age66-85","Married","England","Male",0.0350591054246883,1
+"20 or above","Level 3 40~59k","Level 7","AgeOver85","Single","England","Female",0.49517998778664,1
+"17-19","Level 1 0~19k","Level 2","Age36-45","Married","England","Female",-0.292501183120605,0
+"20 or above","Level 2 20~39k","Level 4","Age46-65","Married","England","Male",0.626191889757773,0
+"20 or above","Level 2 20~39k","Level 1","AgeOver85","Single","England","Female",-0.168470774876,0
+"20 or above","Level 2 20~39k","Level 5","AgeOver85","Single","England","Male",-0.161864499352542,1
+"17-19","Level 4 60~99k","Level 6","Age46-65","Married","England","Male",0.294815207861629,1
+"16 or under","Level 2 20~39k","Level 5","Age66-85","Married","England","Male",0.156935836272483,0
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Married","Scotland","Female",0.0930389769648875,1
+"20 or above","Level 5 100k or above","Level 4","Age46-65","Married","England","Male",-0.0624310993981273,0
+"16 or under","Level 1 0~19k","Level 6","Age66-85","Single","England","Female",0.458730716334459,1
+"20 or above","Level 3 40~59k","Level 3","Age46-65","Married","Scotland","Male",0.186206762845304,0
+"16 or under","Level 1 0~19k","Level 5","Age46-65","Married","England","Female",0.640743882518546,0
+"20 or above","Level 1 0~19k","Level 3","Age66-85","Married","England","Male",0.082834767611767,0
+"16 or under","Level 1 0~19k","Level 4","Age46-65","Married","England","Male",0.0730636292116289,1
+"16 or under","Level 2 20~39k","Level 5","Age36-45","Married","England","Female",0.167170286598467,1
+"17-19","Level 2 20~39k","Level 6","Age46-65","Married","England","Female",-0.0698752834424806,1
+"20 or above","Level 5 100k or above","Level 7","Age36-45","Married","England","Male",0.336934933562723,1
+"20 or above","Level 3 40~59k","Level 6","Age46-65","Single","Scotland","Female",-0.0844340817976013,0
+"16 or under","Level 2 20~39k","Level 4","Age66-85","Married","Wales","Male",-0.0113648825137291,0
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Married","Scotland","Male",-0.00871508165466474,1
+"16 or under","Level 1 0~19k","Level 5","Age66-85","Married","England","Female",1.19260425448722,0
+"20 or above","Level 3 40~59k","Level 6","AgeOver85","Single","England","Male",0.724536165785794,0
+"20 or above","Level 3 40~59k","Level 6","AgeOver85","Single","England","Female",-0.409860256638578,0
+"16 or under","Level 2 20~39k","Level 2","Age46-65","Single","England","Male",0.709140039451243,1
+"20 or above","Level 5 100k or above","Level 6","AgeOver85","Single","England","Male",-1.41999083887087,0
+"17-19","Level 2 20~39k","Level 5","Age46-65","Married","England","Male",-0.0266777570894277,1
+"20 or above","Level 1 0~19k","Level 5","Age46-65","Single","Scotland","Male",-0.263933924875796,0
+"20 or above","Level 4 60~99k","Level 7","Age46-65","Married","England","Female",0.122162901124088,0
+"20 or above","Level 3 40~59k","Level 6","Age66-85","Married","England","Female",0.958315720324485,0
+"17-19","Level 1 0~19k","Level 6","Age46-65","Married","Scotland","Male",-0.027306167375299,0
+"17-19","Level 1 0~19k","Level 5","Age46-65","Single","England","Male",1.29403588795143,1
+"16 or under","Level 1 0~19k","Level 6","Age46-65","Married","England","Female",0.0754621661767399,1
+"16 or under","Level 1 0~19k","Level 1","Age46-65","Married","England","Male",1.03348042217402,1
+"16 or under","Level 1 0~19k","Level 2","Age66-85","Married","Scotland","Female",0.378077575955246,1
+"20 or above","Level 3 40~59k","Level 7","Age66-85","Married","England","Male",0.232169149175102,1
+"16 or under","Level 1 0~19k","Level 5","Age66-85","Married","England","Female",0.305417088974506,0
+"17-19","Level 1 0~19k","Level 6","Age66-85","Married","Scotland","Male",-0.0845877654164497,0
+"17-19","Level 5 100k or above","Level 2","Age46-65","Married","England","Female",0.131813747067784,1
+"20 or above","Level 2 20~39k","Level 2","Age46-65","Single","Scotland","Female",-0.408627882188126,0
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Married","England","Female",0.492291136260699,0
+"20 or above","Level 4 60~99k","Level 6","AgeOver85","Married","Wales","Female",0.0306169370470919,0
+"16 or under","Level 3 40~59k","Level 6","Age46-65","Single","England","Female",-0.320502387192339,0
+"20 or above","Level 4 60~99k","Level 6","AgeOver85","Single","England","Female",0.0212892249148431,0
+"20 or above","Level 3 40~59k","Level 7","Age66-85","Married","England","Female",0.070991106029542,0
+"16 or under","Level 1 0~19k","Level 2","Age46-65","Married","Wales","Female",0.0813483250240744,0
+"16 or under","Level 4 60~99k","Level 7","Age46-65","Married","England","Male",1.45962808216337,0
+"17-19","Level 1 0~19k","Level 4","Age46-65","Married","England","Female",0.800106893471613,1
+"17-19","Level 4 60~99k","Level 6","Age46-65","Married","England","Male",-0.252155801127725,0
+"16 or under","Level 1 0~19k","Level 6","Age46-65","Single","Wales","Female",0.546381764480228,0
+"20 or above","Level 1 0~19k","Level 6","Age66-85","Single","England","Female",-0.39134977240157,1
+"17-19","Level 1 0~19k","Level 5","AgeOver85","Single","England","Female",0,0
+"20 or above","Level 4 60~99k","Level 6","Age46-65","Married","England","Male",0,1
+"17-19","Level 3 40~59k","Level 8","Age46-65","Married","England","Male",0.429147725312523,0
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Married","England","Female",-0.176582196955023,0
+"16 or under","Level 1 0~19k","Level 5","Age66-85","Single","Wales","Male",0.172106199184043,1
+"20 or above","Level 1 0~19k","Level 5","Age36-45","Married","England","Female",-1.91672867978324,0
+"20 or above","Level 4 60~99k","Level 7","AgeOver85","Married","Wales","Male",-0.16018247418774,1
+"16 or under","Level 2 20~39k","Level 4","Age46-65","Married","England","Female",0.786394296025784,1
+"20 or above","Level 1 0~19k","Level 2","Age46-65","Single","England","Male",0.615100258162455,1
+"17-19","Level 4 60~99k","Level 4","Age46-65","Married","England","Male",0.737096299566128,1
+"16 or under","Level 3 40~59k","Level 6","Age46-65","Married","England","Female",0.396275916612678,0
+"20 or above","Level 4 60~99k","Level 5","Age66-85","Married","England","Male",-0.1918723250212,0
+"16 or under","Level 2 20~39k","Level 5","Age66-85","Married","England","Female",0.3885750648605,1
+"16 or under","Level 3 40~59k","Level 6","Age66-85","Married","England","Male",0.314803087939667,1
+"16 or under","Level 3 40~59k","Level 1","Age46-65","Married","Scotland","Male",0,0
+"20 or above","Level 5 100k or above","Level 6","Age46-65","Married","Scotland","Male",0,1
+"16 or under","Level 3 40~59k","Level 6","AgeOver85","Single","England","Female",1.61740137570083,0
+"17-19","Level 5 100k or above","Level 6","AgeOver85","Single","England","Female",-0.21837905,0
+"17-19","Level 2 20~39k","Level 8","Age46-65","Married","Scotland","Female",0,0
+"20 or above","Level 2 20~39k","Level 5","Age46-65","Married","England","Female",0,0
+"20 or above","Level 3 40~59k","Level 6","Age66-85","Single","England","Female",0.257689533634167,0
+"17-19","Level 3 40~59k","Level 7","Age66-85","Married","England","Male",0.386053772193833,1
+"16 or under","Level 3 40~59k","Level 3","Age66-85","Married","Scotland","Male",0.0425127913382289,1
+"16 or under","Level 1 0~19k","Level 5","Age66-85","Married","England","Female",0.608242,1
+"20 or above","Level 1 0~19k","Level 6","Age46-65","Single","England","Female",0.23330852284775,0
+"16 or under","Level 4 60~99k","Level 2","Age46-65","Married","England","Female",0.402153569995333,1
+"16 or under","Level 2 20~39k","Level 6","AgeOver85","Single","Scotland","Female",0.315825992223155,1
+"16 or under","Level 2 20~39k","Level 4","Age66-85","Married","Scotland","Male",0.0495460951123517,1
+"17-19","Level 2 20~39k","Level 6","Age46-65","Single","Wales","Male",0,1
+"20 or above","Level 5 100k or above","Level 6","AgeOver85","Single","England","Male",0,0
+"16 or under","Level 1 0~19k","Level 3","Age46-65","Single","Wales","Female",0.784108793917172,1
+"17-19","Level 1 0~19k","Level 6","Age66-85","Single","England","Female",1.70560345003276,1
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Single","Scotland","Female",0,0
+"16 or under","Level 2 20~39k","Level 1","Age46-65","Married","England","Female",0.2319882,0
+"20 or above","Level 2 20~39k","Level 4","Age36-45","Single","Scotland","Female",1.63569899885885,1
+"16 or under","Level 2 20~39k","Level 2","Age66-85","Married","England","Female",1.66901380332167,1
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Single","England","Female",0.497327055783833,1
+"16 or under","Level 4 60~99k","Level 6","Age46-65","Married","England","Male",1.55593880689567,1
+"16 or under","Level 1 0~19k","Level 6","Age36-45","Single","England","Female",0.354861567302667,1
+"17-19","Level 1 0~19k","Level 2","Age46-65","Single","England","Male",0.414102003768833,1
+"16 or under","Level 2 20~39k","Level 2","Age36-45","Single","Scotland","Female",0,1
+"16 or under","Level 1 0~19k","Level 5","Age46-65","Single","Wales","Female",1.29978,1
+"16 or under","Level 1 0~19k","Level 2","Age66-85","Single","England","Female",0.9684805832835,1
+"16 or under","Level 2 20~39k","Level 4","Age46-65","Married","England","Female",0.263785425274,1
+"16 or under","Level 1 0~19k","Level 6","Age46-65","Married","England","Female",0.164319412104167,1
+"20 or above","Level 1 0~19k","Level 5","Age46-65","Married","England","Female",0.188448193812667,0
+"16 or under","Level 1 0~19k","Level 8","Age66-85","Married","England","Male",-0.676073617268585,0
+"16 or under","Level 2 20~39k","Level 8","Age66-85","Married","England","Male",1.518196,0
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Single","England","Female",-0.231200175341502,0
+"17-19","Level 3 40~59k","Level 5","Age36-45","Married","England","Female",0,0
+"16 or under","Level 2 20~39k","Level 6","Age46-65","Married","England","Female",0.547577490542833,1
+"20 or above","Level 2 20~39k","Level 7","Age46-65","Married","Wales","Male",0,0
+"16 or under","Level 3 40~59k","Level 6","Age46-65","Married","England","Male",0.369780956460368,1
+"20 or above","Level 4 60~99k","Level 5","Age46-65","Married","England","Female",0,0
+"16 or under","Level 2 20~39k","Level 4","Age46-65","Married","England","Male",0.133022118065083,0
+"16 or under","Level 2 20~39k","Level 1","Age46-65","Single","England","Male",0.285045381222,1
+"16 or under","Level 2 20~39k","Level 5","Age66-85","Married","England","Male",3.56161282541867,1
+"16 or under","Level 2 20~39k","Level 2","Age46-65","Single","England","Male",0.23362026060275,0
+"16 or under","Level 2 20~39k","Level 1","Age46-65","Married","England","Female",4.18958575291433,1
+"20 or above","Level 3 40~59k","Level 5","Age46-65","Single","England","Female",0.1742897,0
+"20 or above","Level 3 40~59k","Level 5","AgeOver85","Single","England","Female",1.03088055031267,1
+"17-19","Level 4 60~99k","Level 5","Age66-85","Married","England","Male",0.4702686,0
+"17-19","Level 3 40~59k","Level 6","Age46-65","Married","England","Male",0.471756639699916,1
+"17-19","Level 2 20~39k","Level 5","Age46-65","Single","England","Male",0.0780789704378117,1
+"16 or under","Level 2 20~39k","Level 3","Age66-85","Married","Wales","Male",0.153930945517172,0
+"20 or above","Level 1 0~19k","Level 6","Age46-65","Single","England","Male",0,0
+"17-19","Level 1 0~19k","Level 4","Age66-85","Single","Wales","Female",0.332053763147222,0
+"17-19","Level 3 40~59k","Level 5","Age46-65","Married","England","Female",0.8123090925915,1
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Married","Scotland","Male",0.0622179987282015,1
+"16 or under","Level 3 40~59k","Level 5","Age46-65","Married","England","Female",0,0
+"17-19","Level 4 60~99k","Level 6","Age46-65","Married","Wales","Female",-0.150458723588636,1
+"16 or under","Level 2 20~39k","Level 6","Age46-65","Married","England","Male",0.293386337591667,1
+"20 or above","Level 2 20~39k","Level 5","Age36-45","Married","Scotland","Male",0.62225162169373,0
+"20 or above","Level 4 60~99k","Level 5","Age36-45","Married","England","Male",0,0
+"17-19","Level 1 0~19k","Level 6","Age46-65","Single","Scotland","Male",0.121004351403487,0
+"16 or under","Level 1 0~19k","Level 5","Age66-85","Married","England","Male",0.544835940880868,1
+"20 or above","Level 1 0~19k","Level 6","Age66-85","Single","Scotland","Female",0,0
+"20 or above","Level 3 40~59k","Level 2","Age46-65","Married","Scotland","Male",-0.04501164,0
+"20 or above","Level 3 40~59k","Level 7","Age46-65","Married","Wales","Male",0,0
+"17-19","Level 1 0~19k","Level 1","Age46-65","Single","England","Female",2.0464203788735,1
+"17-19","Level 2 20~39k","Level 6","Age46-65","Married","England","Female",1.11378574780083,0
+"20 or above","Level 2 20~39k","Level 6","Age36-45","Married","Scotland","Male",0.474901043336256,0
+"17-19","Level 1 0~19k","Level 7","Age46-65","Single","England","Male",0.267081924424274,1
+"20 or above","Level 1 0~19k","Level 6","Age66-85","Married","England","Male",0.583282768777915,0
+"16 or under","Level 1 0~19k","Level 2","Age46-65","Single","England","Female",0.986312257501667,1
+"16 or under","Level 1 0~19k","Level 6","Age66-85","Married","England","Male",0.28835323311725,0
+"16 or under","Level 2 20~39k","Level 4","Age36-45","Single","England","Male",0,0
+"16 or under","Level 2 20~39k","Level 2","Age46-65","Single","England","Male",1.16049265936567,1
+"20 or above","Level 3 40~59k","Level 7","AgeOver85","Single","England","Female",1.28224876527183,1
+"20 or above","Level 4 60~99k","Level 6","Age19-35","Single","Scotland","Male",0.398669278005899,1
+"16 or under","Level 3 40~59k","Level 3","Age46-65","Married","England","Female",0.502911938020333,0
+"16 or under","Level 3 40~59k","Level 1","Age46-65","Married","England","Male",0,0
+"17-19","Level 1 0~19k","Level 5","Age46-65","Single","England","Female",0.533973104653335,0
+"20 or above","Level 1 0~19k","Level 6","Age46-65","Married","England","Male",0,0
+"20 or above","Level 1 0~19k","Level 7","Age46-65","Single","England","Female",0,0
+"20 or above","Level 3 40~59k","Level 4","Age66-85","Married","Scotland","Male",-0.02912716,0
+"16 or under","Level 2 20~39k","Level 3","Age46-65","Married","Scotland","Male",0.481777835223096,0
+"16 or under","Level 2 20~39k","Level 5","Age66-85","Married","England","Female",0.458719815058167,0
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Married","England","Female",0.234204708704167,1
+"17-19","Level 1 0~19k","Level 6","Age46-65","Single","England","Female",1.23221059214167,1
+"16 or under","Level 2 20~39k","Level 6","Age66-85","Married","England","Female",2.65247485628533,1
+"17-19","Level 2 20~39k","Level 4","Age66-85","Married","England","Male",0.303776584671,1
+"16 or under","Level 2 20~39k","Level 6","Age66-85","Married","England","Male",1.67402758010367,1
+"16 or under","Level 2 20~39k","Level 4","Age36-45","Married","England","Male",1.1864548442845,1
+"16 or under","Level 2 20~39k","Level 6","Age66-85","Married","England","Male",0,0
+"16 or under","Level 1 0~19k","Level 1","AgeOver85","Single","England","Female",-0.411280103813833,0
+"16 or under","Level 1 0~19k","Level 6","Age46-65","Married","England","Female",0.768768837508,0
+"17-19","Level 4 60~99k","Level 6","AgeOver85","Single","England","Male",0,0
+"16 or under","Level 1 0~19k","Level 7","Age66-85","Single","England","Female",0.4467071403445,0
+"20 or above","Level 3 40~59k","Level 7","Age36-45","Single","Scotland","Male",0,0
+"17-19","Level 2 20~39k","Level 7","Age46-65","Married","England","Male",-0.0498043204984106,0
+"20 or above","Level 2 20~39k","Level 2","AgeOver85","Single","England","Female",-0.420786429647019,0
+"20 or above","Level 3 40~59k","Level 5","AgeOver85","Single","Wales","Female",0.446645603201875,1
+"16 or under","Level 2 20~39k","Level 6","Age66-85","Married","England","Female",0.977758310318309,1
+"17-19","Level 1 0~19k","Level 5","Age66-85","Married","England","Male",0.357324013773268,1
+"17-19","Level 2 20~39k","Level 7","Age46-65","Single","England","Female",0,1
+"16 or under","Level 2 20~39k","Level 6","Age66-85","Married","England","Male",0.411573276546868,1
+"16 or under","Level 2 20~39k","Level 2","Age66-85","Married","England","Female",0.0591597790257451,0
+"16 or under","Level 1 0~19k","Level 3","Age46-65","Married","Scotland","Male",-0.161960001841332,1
+"16 or under","Level 2 20~39k","Level 1","Age19-35","Single","England","Male",1.25018048149376,1
+"16 or under","Level 2 20~39k","Level 2","Age46-65","Married","England","Female",4.24974065582157,1
+"16 or under","Level 1 0~19k","Level 1","Age46-65","Married","England","Male",1.15905664920499,1
+"17-19","Level 3 40~59k","Level 2","Age46-65","Married","England","Female",0.123362108988711,1
+"16 or under","Level 1 0~19k","Level 4","Age46-65","Single","Scotland","Male",0.0434972032554695,1
+"17-19","Level 2 20~39k","Level 6","Age66-85","Married","England","Male",-0.20935566647658,0
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Married","Scotland","Male",0.0809372713068015,1
+"16 or under","Level 1 0~19k","Level 2","Age46-65","Married","England","Female",-0.0916555453706827,1
+"17-19","Level 4 60~99k","Level 8","Age36-45","Single","England","Male",-0.356755453641356,0
+"20 or above","Level 3 40~59k","Level 7","Age66-85","Married","England","Female",-0.217957003372864,0
+"16 or under","Level 2 20~39k","Level 2","Age36-45","Married","England","Male",1.70945889205499,1
+"20 or above","Level 2 20~39k","Level 6","Age19-35","Married","England","Male",1.205617,1
+"16 or under","Level 2 20~39k","Level 8","Age46-65","Married","England","Female",0.527822051409619,1
+"16 or under","Level 4 60~99k","Level 6","Age66-85","Married","England","Male",0.965401380037333,1
+"16 or under","Level 1 0~19k","Level 6","Age66-85","Married","England","Female",0.482340326634789,1
+"20 or above","Level 4 60~99k","Level 6","Age46-65","Married","Scotland","Female",-0.328080779550992,0
+"16 or under","Level 1 0~19k","Level 3","Age66-85","Married","England","Female",-0.177554535493858,0
+"16 or under","Level 1 0~19k","Level 5","Age46-65","Married","England","Male",-0.177560438480352,0
+"20 or above","Level 3 40~59k","Level 6","Age46-65","Married","England","Female",-0.36966555657418,0
+"20 or above","Level 4 60~99k","Level 6","Age66-85","Married","England","Male",0.297964224765575,1
+"20 or above","Level 2 20~39k","Level 7","Age36-45","Single","Scotland","Male",-0.320428250647907,0
+"20 or above","Level 4 60~99k","Level 7","AgeOver85","Married","England","Male",0.327470480894103,1
+"17-19","Level 4 60~99k","Level 8","Age66-85","Married","England","Male",-0.0138796070750737,0
+"20 or above","Level 2 20~39k","Level 7","Age36-45","Married","England","Female",1.38587795144838,1
+"16 or under","Level 1 0~19k","Level 6","Age46-65","Single","England","Male",-0.120352391246505,0
+"20 or above","Level 1 0~19k","Level 5","Age66-85","Single","England","Male",0.190118897343591,1
+"16 or under","Level 2 20~39k","Level 4","Age46-65","Single","England","Female",-0.125415318580241,1
+"16 or under","Level 1 0~19k","Level 4","Age66-85","Single","Scotland","Female",-0.0332653766450664,1
+"20 or above","Level 3 40~59k","Level 6","Age46-65","Single","England","Female",0.152475092716335,1
+"17-19","Level 2 20~39k","Level 5","Age19-35","Single","Scotland","Male",-0.361490340646352,0
+"16 or under","Level 3 40~59k","Level 5","Age36-45","Single","England","Female",0.20770255100303,1
+"17-19","Level 1 0~19k","Level 4","Age46-65","Single","England","Male",0.287640640214697,1
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Married","England","Male",-0.192758664019538,0
+"20 or above","Level 3 40~59k","Level 2","AgeOver85","Single","England","Male",-0.354901656889322,0
+"20 or above","Level 4 60~99k","Level 6","Age36-45","Married","England","Female",-0.339887838827091,0
+"20 or above","Level 2 20~39k","Level 8","Age46-65","Single","England","Male",0.0296157665539688,0
+"17-19","Level 3 40~59k","Level 5","Age36-45","Single","England","Female",0.399605209314559,1
+"17-19","Level 1 0~19k","Level 7","Age19-35","Single","Scotland","Male",0.122335803215262,0
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Married","England","Female",0.300939333574085,1
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Married","England","Male",-0.150676437251609,0
+"17-19","Level 2 20~39k","Level 2","Age19-35","Married","Wales","Female",1.02635601845717,1
+"17-19","Level 2 20~39k","Level 7","Age46-65","Married","England","Male",0.475064919402495,0
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Single","England","Female",0.0516885744754505,1
+"17-19","Level 1 0~19k","Level 2","Age46-65","Married","England","Female",0.723039711984929,0
+"20 or above","Level 3 40~59k","Level 3","Age46-65","Married","England","Male",-0.257179351065161,0
+"20 or above","Level 2 20~39k","Level 7","AgeOver85","Single","Scotland","Female",-0.215801559545597,0
+"17-19","Level 2 20~39k","Level 5","Age46-65","Married","Wales","Female",0.198887581276872,1
+"16 or under","Level 1 0~19k","Level 5","Age46-65","Single","England","Male",0.125777211888321,1
+"17-19","Level 1 0~19k","Level 4","Age66-85","Married","England","Male",0.0714648032692001,0
+"17-19","Level 3 40~59k","Level 5","Age46-65","Married","England","Female",0.204403541139345,1
+"16 or under","Level 3 40~59k","Level 4","Age66-85","Married","England","Male",-0.131391145406471,1
+"16 or under","Level 1 0~19k","Level 6","Age66-85","Single","England","Female",-0.558859791211055,0
+"16 or under","Level 3 40~59k","Level 5","Age46-65","Married","England","Female",-0.310984586056284,0
+"20 or above","Level 1 0~19k","Level 4","Age66-85","Married","England","Male",-0.20349666479392,0
+"16 or under","Level 3 40~59k","Level 3","Age46-65","Married","England","Male",0.0424850589269829,1
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Single","England","Female",-0.046692234653476,1
+"16 or under","Level 5 100k or above","Level 6","Age46-65","Married","England","Male",0.0306300235682993,1
+"20 or above","Level 2 20~39k","Level 6","Age36-45","Single","England","Female",0.0494421188089863,0
+"17-19","Level 2 20~39k","Level 6","Age46-65","Married","Wales","Male",0.0450969767516134,1
+"16 or under","Level 1 0~19k","Level 5","Age66-85","Single","England","Female",0.220333911964626,0
+"17-19","Level 2 20~39k","Level 8","Age46-65","Single","Wales","Female",-0.0262559940166048,0
+"16 or under","Level 1 0~19k","Level 8","AgeOver85","Married","Scotland","Male",0.172125932585529,1
+"17-19","Level 2 20~39k","Level 1","Age36-45","Single","England","Male",5.87673646338099,0
+"17-19","Level 2 20~39k","Level 3","Age46-65","Married","England","Male",-0.997818864742296,0
+"20 or above","Level 4 60~99k","Level 7","Age46-65","Married","England","Male",-0.272614022287026,0
+"20 or above","Level 2 20~39k","Level 5","AgeOver85","Married","England","Male",0.88218175661624,0
+"17-19","Level 3 40~59k","Level 8","Age46-65","Single","Scotland","Male",-0.051754628314054,0
+"20 or above","Level 3 40~59k","Level 5","Age66-85","Single","England","Female",-0.0533000939797077,1
+"17-19","Level 3 40~59k","Level 5","Age36-45","Married","England","Male",1.21421618742481,1
+"20 or above","Level 2 20~39k","Level 5","AgeOver85","Single","England","Female",-0.449973484268803,1
+"16 or under","Level 2 20~39k","Level 4","Age66-85","Single","England","Male",-0.0445941132427039,1
+"20 or above","Level 1 0~19k","Level 5","Age46-65","Single","Scotland","Female",0.179388530975658,1
+"16 or under","Level 3 40~59k","Level 7","Age66-85","Married","England","Male",-0.0925118649410682,1
+"20 or above","Level 3 40~59k","Level 6","Age36-45","Single","Scotland","Male",-0.147625333375512,0
+"16 or under","Level 2 20~39k","Level 3","Age66-85","Married","England","Male",0.525019094484025,1
+"20 or above","Level 1 0~19k","Level 4","Age46-65","Single","England","Female",0.234722468397639,1
+"17-19","Level 1 0~19k","Level 7","Age66-85","Single","England","Female",-0.096869777680908,0
+"17-19","Level 3 40~59k","Level 2","Age46-65","Married","England","Female",-0.128107267495606,0
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Single","England","Female",-0.0560194179453726,0
+"16 or under","Level 2 20~39k","Level 6","Age66-85","Married","England","Female",0.211365096489494,0
+"20 or above","Level 2 20~39k","Level 7","Age66-85","Single","England","Male",-0.4423489,0
+"16 or under","Level 2 20~39k","Level 6","Age46-65","Single","England","Female",1.03891144066856,1
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Married","England","Male",-0.164635333688826,0
+"20 or above","Level 4 60~99k","Level 7","Age66-85","Single","England","Male",0.0287765888601123,1
+"20 or above","Level 3 40~59k","Level 7","AgeOver85","Single","England","Female",-0.289990147395453,0
+"16 or under","Level 2 20~39k","Level 5","Age66-85","Married","Wales","Female",-0.0657715243224817,0
+"17-19","Level 2 20~39k","Level 2","Age46-65","Married","England","Female",-0.0535894640468411,1
+"16 or under","Level 2 20~39k","Level 7","Age36-45","Married","Scotland","Male",-0.0281014723127526,0
+"16 or under","Level 2 20~39k","Level 2","Age46-65","Single","England","Male",0.505526755463642,1
+"17-19","Level 3 40~59k","Level 4","Age46-65","Married","England","Male",-0.235498986475786,0
+"20 or above","Level 2 20~39k","Level 5","Age19-35","Single","England","Male",0.578056746629415,1
+"16 or under","Level 2 20~39k","Level 6","Age46-65","Married","England","Male",0.0250045103623515,0
+"20 or above","Level 2 20~39k","Level 6","AgeOver85","Single","England","Female",-0.211400561488886,0
+"20 or above","Level 4 60~99k","Level 7","Age66-85","Married","England","Female",0.0694655066096818,1
+"16 or under","Level 1 0~19k","Level 3","Age46-65","Married","England","Male",4.05938614108332,1
+"17-19","Level 3 40~59k","Level 4","Age46-65","Married","England","Female",0.411990522765551,1
+"17-19","Level 2 20~39k","Level 6","Age66-85","Married","Scotland","Male",-0.120399335727828,0
+"16 or under","Level 2 20~39k","Level 2","Age46-65","Single","England","Male",1.98766606281811,1
+"17-19","Level 1 0~19k","Level 3","Age66-85","Single","England","Female",0.153826883577801,1
+"16 or under","Level 1 0~19k","Level 1","Age66-85","Married","Wales","Male",-0.02016179049418,0
+"16 or under","Level 1 0~19k","Level 4","Age66-85","Married","England","Male",0.284579217453973,1
+"17-19","Level 2 20~39k","Level 6","Age46-65","Married","England","Female",0.154717766642131,1
+"16 or under","Level 2 20~39k","Level 2","Age66-85","Single","England","Female",0.345115506319942,1
+"17-19","Level 2 20~39k","Level 5","Age46-65","Married","England","Female",0.307235126324017,1
+"20 or above","Level 4 60~99k","Level 4","Age46-65","Married","England","Male",0.391879824640447,1
+"16 or under","Level 2 20~39k","Level 5","Age66-85","Married","England","Male",0.182721684926495,1
+"20 or above","Level 5 100k or above","Level 7","AgeOver85","Married","England","Male",-0.263333599048387,0
+"20 or above","Level 1 0~19k","Level 6","Age46-65","Single","England","Male",-0.41821890975696,0
+"16 or under","Level 1 0~19k","Level 1","Age66-85","Single","England","Male",0.0169183678336522,1
+"17-19","Level 3 40~59k","Level 6","Age46-65","Single","England","Male",0.900588528188773,0
+"17-19","Level 2 20~39k","Level 3","Age66-85","Married","England","Male",0.450956783354527,1
+"20 or above","Level 5 100k or above","Level 6","Age46-65","Married","England","Male",0,0
+"20 or above","Level 2 20~39k","Level 8","Age46-65","Married","England","Female",0.0230740392845445,0
+"20 or above","Level 2 20~39k","Level 7","Age66-85","Married","England","Male",-0.0438199097914929,1
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Single","England","Female",-0.167199696444123,0
+"20 or above","Level 2 20~39k","Level 8","Age46-65","Married","Scotland","Female",0.0272847604944781,1
+"16 or under","Level 1 0~19k","Level 2","Age66-85","Married","Scotland","Male",0,0
+"17-19","Level 1 0~19k","Level 6","Age46-65","Single","England","Male",-0.266394973608575,0
+"16 or under","Level 1 0~19k","Level 6","Age66-85","Married","England","Male",0.81174991884699,0
+"16 or under","Level 3 40~59k","Level 3","Age46-65","Married","England","Male",1.14012087333255,1
+"17-19","Level 2 20~39k","Level 7","Age66-85","Married","England","Female",0,1
+"17-19","Level 4 60~99k","Level 4","Age46-65","Married","England","Female",-0.576816780236933,0
+"16 or under","Level 1 0~19k","Level 1","Age66-85","Married","England","Male",0.657698302803704,1
+"16 or under","Level 2 20~39k","Level 4","Age46-65","Married","England","Male",0.770915408758218,1
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Single","Wales","Male",0.0507143579218701,0
+"17-19","Level 2 20~39k","Level 2","Age46-65","Married","England","Female",-0.168892206169477,0
+"16 or under","Level 3 40~59k","Level 6","Age46-65","Married","England","Male",0.794941176793731,1
+"16 or under","Level 2 20~39k","Level 2","Age46-65","Married","England","Female",0.539758740823596,1
+"16 or under","Level 1 0~19k","Level 1","Age46-65","Married","England","Female",0.535203448863021,0
+"16 or under","Level 2 20~39k","Level 4","Age66-85","Married","England","Female",0.442189352378964,1
+"16 or under","Level 1 0~19k","Level 6","Age66-85","Married","Scotland","Female",0.212670768238846,1
+"20 or above","Level 1 0~19k","Level 5","Age46-65","Single","England","Female",0.429404816033714,1
+"20 or above","Level 1 0~19k","Level 4","Age46-65","Single","England","Male",0.123726128895461,0
+"16 or under","Level 3 40~59k","Level 8","Age46-65","Married","England","Male",1.22711818610902,1
+"16 or under","Level 1 0~19k","Level 2","Age46-65","Single","England","Female",0.389594055867231,1
+"17-19","Level 1 0~19k","Level 2","Age46-65","Single","England","Male",-0.148904374846105,0
+"17-19","Level 2 20~39k","Level 6","Age46-65","Single","England","Male",0.267534447183366,1
+"17-19","Level 2 20~39k","Level 5","Age46-65","Married","England","Female",1.73158291748104,1
+"17-19","Level 1 0~19k","Level 2","AgeOver85","Single","England","Female",-0.255353285728415,0
+"17-19","Level 1 0~19k","Level 4","Age46-65","Single","England","Male",-0.273140851616713,0
+"20 or above","Level 4 60~99k","Level 6","AgeOver85","Single","England","Male",-0.190558753669298,0
+"16 or under","Level 1 0~19k","Level 6","Age46-65","Married","England","Female",0.420535914536166,1
+"17-19","Level 2 20~39k","Level 4","Age66-85","Married","England","Female",-0.556217056323051,0
+"16 or under","Level 1 0~19k","Level 4","Age46-65","Married","England","Male",0.310223895510757,1
+"20 or above","Level 3 40~59k","Level 6","Age66-85","Married","England","Female",-0.103941942322186,0
+"17-19","Level 3 40~59k","Level 5","Age46-65","Single","Scotland","Female",0.210838352876363,1
+"17-19","Level 3 40~59k","Level 5","AgeOver85","Single","England","Female",-0.41855462185577,0
+"17-19","Level 1 0~19k","Level 5","Age46-65","Single","England","Female",0.72005927180811,0
+"17-19","Level 2 20~39k","Level 4","Age46-65","Married","Wales","Female",0.878073870249643,0
+"20 or above","Level 1 0~19k","Level 4","Age46-65","Single","England","Male",-0.0780496739984999,0
+"16 or under","Level 2 20~39k","Level 7","Age66-85","Single","England","Male",1.49309321523986,1
+"17-19","Level 1 0~19k","Level 5","AgeOver85","Single","England","Female",0.638931,0
+"20 or above","Level 5 100k or above","Level 4","Age46-65","Married","Scotland","Male",-0.0447350051124977,0
+"17-19","Level 3 40~59k","Level 6","Age36-45","Married","England","Female",2.02510233391193,0
+"17-19","Level 1 0~19k","Level 2","Age19-35","Married","Wales","Female",0.921003332964932,1
+"20 or above","Level 3 40~59k","Level 6","Age46-65","Married","England","Female",0.314101035089919,0
+"17-19","Level 2 20~39k","Level 7","Age66-85","Single","Wales","Male",0.0831555665835111,1
+"16 or under","Level 2 20~39k","Level 3","Age36-45","Single","England","Male",0.56078898853797,0
+"17-19","Level 4 60~99k","Level 5","Age36-45","Married","England","Male",0,0
+"20 or above","Level 2 20~39k","Level 6","Age36-45","Single","England","Female",-0.047773405569529,0
+"17-19","Level 2 20~39k","Level 4","Age46-65","Married","Scotland","Female",-0.110335219742136,1
+"16 or under","Level 4 60~99k","Level 8","Age36-45","Married","England","Male",-0.0514716290263251,0
+"16 or under","Level 2 20~39k","Level 6","Age46-65","Single","England","Male",1.38260467522821,1
+"17-19","Level 1 0~19k","Level 2","AgeOver85","Single","England","Female",1.7162798934965,1
+"17-19","Level 3 40~59k","Level 6","Age66-85","Married","England","Female",0.0478588751075272,0
+"17-19","Level 4 60~99k","Level 5","Age46-65","Married","England","Male",0.135006150735682,1
+"20 or above","Level 4 60~99k","Level 6","Age46-65","Married","Wales","Male",0.26455413705904,1
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Single","England","Male",0.0490617945280212,1
+"16 or under","Level 1 0~19k","Level 1","Age66-85","Married","England","Female",0.345115506319942,1
+"17-19","Level 1 0~19k","Level 5","Age36-45","Single","England","Female",0.791906157693244,1
+"20 or above","Level 3 40~59k","Level 8","Age46-65","Married","England","Female",-0.203772178289249,0
+"20 or above","Level 4 60~99k","Level 6","Age46-65","Married","England","Male",-0.243068202770673,0
+"16 or under","Level 1 0~19k","Level 6","Age46-65","Single","England","Female",0.579118103221156,0
+"16 or under","Level 2 20~39k","Level 6","Age46-65","Single","England","Female",0.0230815025099674,1
+"20 or above","Level 3 40~59k","Level 6","AgeOver85","Single","England","Female",0.134005394482732,1
+"17-19","Level 4 60~99k","Level 6","AgeOver85","Single","England","Male",-0.30087074791614,0
+"20 or above","Level 3 40~59k","Level 6","Age46-65","Married","England","Male",0.456389171597713,1
+"17-19","Level 3 40~59k","Level 5","AgeOver85","Single","England","Female",0,0
+"17-19","Level 3 40~59k","Level 3","Age36-45","Single","England","Male",-0.305726910055842,1
+"20 or above","Level 1 0~19k","Level 6","Age36-45","Single","Scotland","Female",-0.750676156156007,0
+"20 or above","Level 1 0~19k","Level 4","Age46-65","Single","England","Male",-0.261278875496924,0
+"16 or under","Level 2 20~39k","Level 6","Age46-65","Single","England","Female",-0.230507951964034,0
+"17-19","Level 1 0~19k","Level 6","Age66-85","Single","England","Female",-0.132410633200923,0
+"20 or above","Level 3 40~59k","Level 6","Age19-35","Single","England","Female",0.0685254706600053,1
+"16 or under","Level 1 0~19k","Level 2","Age66-85","Single","England","Female",0.45178493893698,0
+"16 or under","Level 2 20~39k","Level 5","Age66-85","Married","England","Male",-0.259475723339656,0
+"20 or above","Level 2 20~39k","Level 6","Age36-45","Single","England","Male",-0.873708854208047,0
+"17-19","Level 3 40~59k","Level 6","Age66-85","Married","Scotland","Male",0.283769955046335,1
+"20 or above","Level 1 0~19k","Level 3","Age46-65","Single","England","Female",0.135489580900518,1
+"20 or above","Level 3 40~59k","Level 5","Age46-65","Married","England","Female",0,1
+"20 or above","Level 1 0~19k","Level 7","Age66-85","Single","Wales","Female",-0.116237222105985,0
+"20 or above","Level 4 60~99k","Level 6","AgeOver85","Single","England","Male",0.430757928380464,0
+"16 or under","Level 2 20~39k","Level 3","Age46-65","Married","England","Male",-0.169376167005419,0
+"20 or above","Level 5 100k or above","Level 7","Age46-65","Married","England","Male",-0.121072617394343,0
+"16 or under","Level 2 20~39k","Level 4","Age66-85","Married","England","Male",0.310556818500653,1
+"17-19","Level 1 0~19k","Level 4","Age46-65","Married","England","Female",0.115200768237844,1
+"20 or above","Level 1 0~19k","Level 5","Age66-85","Married","Wales","Male",-0.938210203800332,0
+"20 or above","Level 2 20~39k","Level 7","Age36-45","Single","England","Male",-0.393339557219136,0
+"16 or under","Level 3 40~59k","Level 2","Age36-45","Married","England","Male",0.604220365951215,0
+"20 or above","Level 3 40~59k","Level 6","Age46-65","Married","England","Female",0.780969229729406,1
+"20 or above","Level 3 40~59k","Level 8","AgeOver85","Single","England","Male",0.573175683360549,1
+"16 or under","Level 3 40~59k","Level 7","Age46-65","Married","England","Male",0.645314033057676,1
+"20 or above","Level 3 40~59k","Level 7","Age66-85","Married","England","Female",0,1
+"17-19","Level 2 20~39k","Level 6","Age66-85","Married","Wales","Male",-0.0640942682665791,0
+"20 or above","Level 4 60~99k","Level 7","Age36-45","Single","England","Male",-0.209307004787284,0
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Single","England","Female",-0.975688000121961,0
+"20 or above","Level 1 0~19k","Level 7","AgeOver85","Single","England","Female",-0.430426943830375,0
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Married","England","Female",0.65156886430497,1
+"20 or above","Level 3 40~59k","Level 6","Age36-45","Single","Scotland","Male",0.0650904938541572,1
+"17-19","Level 2 20~39k","Level 6","Age46-65","Married","England","Male",0.428507006368935,1
+"16 or under","Level 4 60~99k","Level 3","Age46-65","Married","England","Male",0.423270833630091,0
+"20 or above","Level 5 100k or above","Level 8","Age46-65","Married","England","Female",0.167595022017582,1
+"17-19","Level 1 0~19k","Level 2","AgeOver85","Single","England","Female",-1.47242654767615,0
+"17-19","Level 1 0~19k","Level 6","Age46-65","Single","England","Male",-0.0679413691154936,0
+"16 or under","Level 3 40~59k","Level 5","Age66-85","Married","England","Female",0.52519157365686,1
+"20 or above","Level 2 20~39k","Level 6","AgeOver85","Single","England","Female",-0.741725055444908,0
+"17-19","Level 2 20~39k","Level 6","Age36-45","Married","England","Male",-0.192447294283011,0
+"20 or above","Level 1 0~19k","Level 6","Age66-85","Married","Scotland","Female",-0.0181448439586579,1
+"17-19","Level 1 0~19k","Level 6","Age46-65","Single","England","Male",0.363170356832779,1
+"20 or above","Level 3 40~59k","Level 4","Age46-65","Married","England","Female",0.104640538042786,0
+"20 or above","Level 4 60~99k","Level 6","Age36-45","Single","Scotland","Female",-0.2197944,0
+"20 or above","Level 2 20~39k","Level 6","AgeOver85","Single","England","Female",-0.800132328408352,0
+"20 or above","Level 1 0~19k","Level 6","Age46-65","Single","England","Female",0.149432874400136,1
+"16 or under","Level 1 0~19k","Level 2","Age46-65","Single","Scotland","Female",0,0
+"16 or under","Level 2 20~39k","Level 6","AgeOver85","Married","England","Female",-0.202777026610547,1
+"20 or above","Level 4 60~99k","Level 5","AgeOver85","Married","Scotland","Female",-0.271648134228666,0
+"20 or above","Level 5 100k or above","Level 7","Age46-65","Married","England","Male",-0.654061957630879,0
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Married","England","Female",-0.247418564947025,0
+"16 or under","Level 1 0~19k","Level 5","Age46-65","Single","England","Female",0.397574949095725,1
+"20 or above","Level 3 40~59k","Level 6","Age46-65","Married","England","Female",-0.66818483512948,0
+"17-19","Level 1 0~19k","Level 5","Age66-85","Married","England","Male",0.23867477023718,1
+"16 or under","Level 2 20~39k","Level 5","Age36-45","Single","England","Male",0.813608780117414,1
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Married","England","Male",0.356700860228834,1
+"20 or above","Level 2 20~39k","Level 1","Age36-45","Single","Wales","Male",1.5428574001712,0
+"17-19","Level 2 20~39k","Level 4","AgeOver85","Married","England","Female",-1.9282361065314,0
+"16 or under","Level 1 0~19k","Level 4","Age66-85","Single","England","Female",-0.0895080487667229,1
+"17-19","Level 2 20~39k","Level 6","Age46-65","Single","England","Male",0.128294956083584,1
+"16 or under","Level 2 20~39k","Level 2","Age46-65","Married","England","Female",-0.13250399510827,1
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Married","England","Male",0.596925405434999,1
+"16 or under","Level 1 0~19k","Level 1","AgeOver85","Single","England","Female",0.829124852769453,1
+"20 or above","Level 2 20~39k","Level 5","Age36-45","Single","England","Male",0.438090247385649,0
+"20 or above","Level 2 20~39k","Level 7","Age66-85","Single","England","Male",-0.157638904381826,1
+"20 or above","Level 2 20~39k","Level 5","Age46-65","Single","Scotland","Male",-0.853023167140324,0
+"17-19","Level 2 20~39k","Level 6","Age46-65","Single","England","Male",-0.303651133458742,0
+"20 or above","Level 5 100k or above","Level 4","Age66-85","Single","England","Male",-0.179593370900194,0
+"20 or above","Level 1 0~19k","Level 5","Age36-45","Single","England","Male",1.2867927791185,1
+"16 or under","Level 1 0~19k","Level 4","Age66-85","Single","Wales","Male",0.462981164475807,1
+"20 or above","Level 2 20~39k","Level 3","Age46-65","Married","England","Female",-0.299991827685473,0
+"20 or above","Level 1 0~19k","Level 5","Age66-85","Married","England","Male",0.743252615279454,0
+"17-19","Level 3 40~59k","Level 4","Age46-65","Single","England","Female",0.209501883162302,1
+"20 or above","Level 4 60~99k","Level 6","Age66-85","Married","England","Male",-0.326832366607243,0
+"16 or under","Level 1 0~19k","Level 1","Age46-65","Single","England","Female",-0.113792933560919,1
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Married","England","Male",0.680131503984208,1
+"20 or above","Level 1 0~19k","Level 4","Age46-65","Married","England","Male",0.417778161202932,1
+"17-19","Level 4 60~99k","Level 6","Age46-65","Single","England","Male",-0.185041388855245,0
+"20 or above","Level 4 60~99k","Level 6","Age46-65","Married","England","Male",-0.592795385130568,0
+"16 or under","Level 2 20~39k","Level 7","Age66-85","Married","Scotland","Male",-0.155459510955652,1
+"20 or above","Level 3 40~59k","Level 8","Age36-45","Single","England","Female",0.084066024736054,0
+"17-19","Level 2 20~39k","Level 4","Age66-85","Single","England","Female",-0.718868400749885,0
+"16 or under","Level 5 100k or above","Level 6","AgeOver85","Single","Scotland","Male",0.879630478301363,1
+"17-19","Level 2 20~39k","Level 6","Age36-45","Single","England","Male",-0.738739928358961,0
+"16 or under","Level 1 0~19k","Level 3","Age66-85","Married","England","Male",0.414663047539001,1
+"20 or above","Level 3 40~59k","Level 5","Age36-45","Single","England","Male",0.131969154648029,0
+"17-19","Level 2 20~39k","Level 7","Age46-65","Married","England","Male",0,0
+"17-19","Level 2 20~39k","Level 6","Age46-65","Single","Scotland","Male",0.0848776798883227,1
+"20 or above","Level 2 20~39k","Level 5","Age36-45","Single","Scotland","Female",-0.193170111265647,0
+"16 or under","Level 1 0~19k","Level 2","Age46-65","Married","England","Male",0.604135655308868,1
+"20 or above","Level 4 60~99k","Level 7","Age66-85","Married","England","Male",-0.179593370900194,0
+"20 or above","Level 2 20~39k","Level 5","Age46-65","Married","England","Female",0,1
+"20 or above","Level 2 20~39k","Level 6","Age36-45","Single","England","Female",0.139934704628923,0
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Married","Scotland","Female",0.108006168853327,0
+"20 or above","Level 1 0~19k","Level 6","Age46-65","Single","England","Female",0,1
+"17-19","Level 1 0~19k","Level 3","Age36-45","Married","England","Female",0.714969146954977,1
+"20 or above","Level 2 20~39k","Level 6","Age36-45","Married","England","Female",0.391753974692225,1
+"17-19","Level 1 0~19k","Level 2","Age36-45","Married","England","Male",0.0418412558902856,1
+"16 or under","Level 3 40~59k","Level 6","Age46-65","Married","England","Male",2.05604088418565,1
+"17-19","Level 2 20~39k","Level 5","Age66-85","Single","England","Male",-0.252247797418776,1
+"16 or under","Level 3 40~59k","Level 6","Age66-85","Married","England","Male",0.63055561658147,1
+"16 or under","Level 3 40~59k","Level 6","Age46-65","Married","England","Male",-0.268525607060363,0
+"17-19","Level 2 20~39k","Level 3","Age46-65","Single","England","Male",0,0
+"16 or under","Level 2 20~39k","Level 4","Age66-85","Married","England","Female",-0.217675169951404,0
+"17-19","Level 2 20~39k","Level 2","Age36-45","Single","England","Male",1.76567837511677,1
+"20 or above","Level 5 100k or above","Level 6","Age36-45","Married","England","Female",-0.273436288839173,0
+"17-19","Level 3 40~59k","Level 6","Age66-85","Married","Scotland","Male",-0.0795890832309917,0
+"16 or under","Level 1 0~19k","Level 2","Age66-85","Married","Scotland","Male",0,1
+"16 or under","Level 1 0~19k","Level 3","Age66-85","Married","England","Male",0.296876876375314,1
+"17-19","Level 3 40~59k","Level 5","Age46-65","Married","England","Female",0.6625199739513,1
+"17-19","Level 3 40~59k","Level 8","Age46-65","Married","England","Female",0.144683683839902,0
+"20 or above","Level 2 20~39k","Level 7","Age46-65","Married","Scotland","Male",-0.323479571283,0
+"17-19","Level 2 20~39k","Level 6","Age36-45","Single","England","Male",-0.535789042193114,0
+"16 or under","Level 2 20~39k","Level 6","Age66-85","Married","England","Male",0.20124438250923,1
+"16 or under","Level 1 0~19k","Level 6","Age66-85","Single","Scotland","Female",-0.0241348789749808,0
+"20 or above","Level 3 40~59k","Level 7","AgeOver85","Single","England","Female",-0.141526540609378,0
+"20 or above","Level 2 20~39k","Level 5","Age46-65","Married","England","Female",-0.152703321054436,1
+"16 or under","Level 2 20~39k","Level 2","Age66-85","Married","England","Female",-0.238299217357465,1
+"20 or above","Level 4 60~99k","Level 7","Age46-65","Married","England","Male",0.29303144901574,1
+"16 or under","Level 1 0~19k","Level 4","Age46-65","Married","England","Male",0.588085217900563,1
+"16 or under","Level 2 20~39k","Level 1","Age36-45","Single","England","Female",-0.445009452656485,1
+"16 or under","Level 1 0~19k","Level 3","Age66-85","Married","England","Female",-0.024554691601973,1
+"16 or under","Level 2 20~39k","Level 6","Age46-65","Single","Scotland","Male",0.0694362404969153,0
+"16 or under","Level 2 20~39k","Level 6","Age66-85","Married","England","Male",0.419734141075351,1
+"20 or above","Level 1 0~19k","Level 7","Age66-85","Married","England","Female",-0.196736109029918,1
+"16 or under","Level 4 60~99k","Level 7","Age46-65","Married","England","Male",0,1
+"17-19","Level 3 40~59k","Level 4","Age36-45","Married","England","Male",-0.852598834069805,0
+"20 or above","Level 1 0~19k","Level 6","Age46-65","Single","England","Female",-0.232020261902746,0
+"17-19","Level 1 0~19k","Level 6","Age46-65","Single","England","Male",0.596108211002728,1
+"20 or above","Level 1 0~19k","Level 5","Age66-85","Single","England","Female",-0.572982078159385,0
+"17-19","Level 2 20~39k","Level 6","Age46-65","Single","England","Female",1.14008371810856,1
+"17-19","Level 1 0~19k","Level 6","Age46-65","Married","England","Female",0.133238790556481,1
+"16 or under","Level 3 40~59k","Level 7","Age66-85","Single","England","Male",-0.285039549116248,1
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Married","England","Female",-0.319003534994226,0
+"17-19","Level 5 100k or above","Level 6","Age36-45","Single","England","Male",-0.157384967438942,0
+"16 or under","Level 1 0~19k","Level 4","Age66-85","Single","England","Male",0.151685466732276,1
+"16 or under","Level 3 40~59k","Level 5","Age36-45","Married","England","Female",-0.173425667013518,1
+"20 or above","Level 4 60~99k","Level 6","Age36-45","Married","Wales","Female",-0.312621616187541,0
+"20 or above","Level 4 60~99k","Level 6","Age36-45","Married","England","Female",-0.390491307453832,0
+"17-19","Level 3 40~59k","Level 7","AgeOver85","Married","England","Female",-0.804304260127266,0
+"16 or under","Level 1 0~19k","Level 5","Age66-85","Married","England","Male",0.233108334531794,1
+"20 or above","Level 5 100k or above","Level 8","Age36-45","Married","England","Male",-0.687372361308175,0
+"17-19","Level 1 0~19k","Level 5","Age66-85","Single","England","Female",-0.155490606292552,0
+"20 or above","Level 2 20~39k","Level 8","Age46-65","Married","Scotland","Female",-0.261705805243728,1
+"16 or under","Level 3 40~59k","Level 2","Age46-65","Married","Wales","Male",-0.672724327460815,0
+"20 or above","Level 4 60~99k","Level 6","Age46-65","Married","England","Male",-0.558908785823199,0
+"17-19","Level 1 0~19k","Level 7","Age46-65","Single","England","Male",0.140256333193077,0
+"16 or under","Level 3 40~59k","Level 6","Age46-65","Married","Scotland","Male",0.0451113072082584,1
+"20 or above","Level 1 0~19k","Level 4","Age36-45","Single","England","Female",4.51643501529325,1
+"20 or above","Level 3 40~59k","Level 5","Age46-65","Married","England","Male",-0.579931095528766,0
+"20 or above","Level 1 0~19k","Level 1","Age36-45","Single","England","Male",-0.374601578914812,0
+"20 or above","Level 2 20~39k","Level 7","Age46-65","Married","Scotland","Female",-0.0980052806430112,0
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Single","England","Female",-0.367782391547917,0
+"20 or above","Level 4 60~99k","Level 6","Age46-65","Married","England","Male",0.263553911877766,1
+"20 or above","Level 1 0~19k","Level 6","Age19-35","Married","England","Female",-0.441286645849743,0
+"17-19","Level 3 40~59k","Level 5","Age36-45","Married","England","Female",-0.0483317953579039,0
+"16 or under","Level 1 0~19k","Level 4","Age66-85","Married","England","Male",-0.138869949171122,1
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Married","England","Male",-0.170389685289837,0
+"20 or above","Level 3 40~59k","Level 7","Age36-45","Married","Scotland","Female",-0.28720498081681,0
+"16 or under","Level 2 20~39k","Level 2","Age46-65","Married","England","Female",0.122379200818363,1
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Single","England","Female",0.240103466426563,1
+"20 or above","Level 2 20~39k","Level 7","Age36-45","Married","England","Male",-0.195901444134696,1
+"17-19","Level 1 0~19k","Level 2","Age46-65","Married","England","Female",-0.46839881779508,1
+"16 or under","Level 1 0~19k","Level 5","AgeOver85","Married","England","Male",0.803859086777005,1
+"17-19","Level 3 40~59k","Level 6","Age46-65","Married","England","Male",0.668996965054783,0
+"16 or under","Level 4 60~99k","Level 6","Age46-65","Married","England","Male",-0.483274994360416,0
+"16 or under","Level 1 0~19k","Level 5","Age66-85","Single","England","Male",0.148773459239209,0
+"20 or above","Level 4 60~99k","Level 7","Age36-45","Married","England","Male",-1.34292770549184,0
+"17-19","Level 3 40~59k","Level 5","AgeOver85","Single","England","Female",0.13081838359497,1
+"16 or under","Level 1 0~19k","Level 2","Age66-85","Married","England","Male",0,0
+"20 or above","Level 1 0~19k","Level 7","Age66-85","Married","England","Male",-0.558264759913526,0
+"16 or under","Level 2 20~39k","Level 5","Age66-85","Married","Scotland","Female",-0.302668389331645,0
+"17-19","Level 2 20~39k","Level 7","Age66-85","Married","England","Male",-0.153292879190825,0
+"17-19","Level 2 20~39k","Level 7","Age66-85","Married","England","Male",-0.161100799838899,0
+"20 or above","Level 3 40~59k","Level 5","Age66-85","Married","England","Female",0.406230964536706,1
+"20 or above","Level 4 60~99k","Level 5","AgeOver85","Married","England","Female",0,0
+"17-19","Level 2 20~39k","Level 3","Age46-65","Single","England","Male",-0.053560581613395,1
+"20 or above","Level 3 40~59k","Level 6","Age46-65","Married","Scotland","Male",0.0375927560745489,0
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Married","Scotland","Male",0.0916645969478861,0
+"16 or under","Level 2 20~39k","Level 6","Age66-85","Married","England","Female",-0.450487259865584,1
+"16 or under","Level 3 40~59k","Level 3","Age46-65","Married","England","Male",0.126415058322493,1
+"16 or under","Level 1 0~19k","Level 4","Age46-65","Married","England","Male",0.163900415598456,1
+"17-19","Level 2 20~39k","Level 6","Age46-65","Married","Scotland","Female",-0.0897983744712184,0
+"17-19","Level 1 0~19k","Level 6","Age36-45","Married","England","Female",1.1907310965189,0
+"16 or under","Level 2 20~39k","Level 8","Age66-85","Married","England","Male",0,1
+"16 or under","Level 3 40~59k","Level 6","Age66-85","Married","England","Female",-0.051702326709457,1
+"17-19","Level 5 100k or above","Level 6","Age46-65","Married","England","Male",-0.410735748763381,1
+"16 or under","Level 1 0~19k","Level 6","Age66-85","Single","England","Female",-0.135711806613151,1
+"17-19","Level 1 0~19k","Level 2","Age46-65","Single","England","Female",3.10493902069889,1
+"20 or above","Level 3 40~59k","Level 6","Age66-85","Married","England","Female",-0.375589325043366,1
+"16 or under","Level 3 40~59k","Level 5","Age46-65","Married","England","Female",0.665846389014615,0
+"20 or above","Level 2 20~39k","Level 7","Age66-85","Single","England","Female",-0.523675910815538,0
+"17-19","Level 2 20~39k","Level 4","AgeOver85","Single","England","Female",-0.511950015271482,0
+"16 or under","Level 3 40~59k","Level 3","Age46-65","Married","England","Male",-0.13129029920922,1
+"20 or above","Level 3 40~59k","Level 6","Age36-45","Single","England","Male",-1.13167250599974,0
+"16 or under","Level 2 20~39k","Level 5","Age66-85","Married","England","Female",1.84359418839435,1
+"20 or above","Level 1 0~19k","Level 7","Age36-45","Married","Scotland","Male",-0.0914172066622394,1
+"16 or under","Level 2 20~39k","Level 4","Age66-85","Married","England","Male",0.213779661837186,1
+"16 or under","Level 1 0~19k","Level 6","Age66-85","Single","Wales","Male",0.0631378365504899,0
+"16 or under","Level 1 0~19k","Level 5","Age46-65","Single","England","Female",0.034988005204258,1
+"17-19","Level 3 40~59k","Level 6","Age46-65","Single","England","Male",-0.276297404932741,0
+"17-19","Level 2 20~39k","Level 6","Age46-65","Married","England","Female",0.136451667603889,1
+"17-19","Level 1 0~19k","Level 1","Age36-45","Single","England","Male",1.65377987067658,0
+"16 or under","Level 3 40~59k","Level 3","Age66-85","Married","England","Male",0.307838507704529,1
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Married","England","Female",1.09115350204549,0
+"17-19","Level 2 20~39k","Level 3","Age66-85","Married","Wales","Male",-0.723990058996922,1
+"20 or above","Level 1 0~19k","Level 6","Age36-45","Single","England","Male",0.7293352,1
+"20 or above","Level 2 20~39k","Level 8","Age46-65","Married","England","Female",-0.224064608253281,0
+"16 or under","Level 4 60~99k","Level 6","Age66-85","Married","England","Male",0.130747895856677,0
+"17-19","Level 2 20~39k","Level 6","Age46-65","Single","England","Male",2.0137587183372,1
+"20 or above","Level 4 60~99k","Level 6","AgeOver85","Single","England","Female",-0.411128598813562,0
+"20 or above","Level 4 60~99k","Level 3","AgeOver85","Married","Scotland","Male",-0.0636137944328783,0
+"20 or above","Level 1 0~19k","Level 4","Age46-65","Single","England","Male",-0.389859814333566,0
+"20 or above","Level 2 20~39k","Level 5","Age36-45","Married","England","Male",-0.870232364176993,0
+"20 or above","Level 4 60~99k","Level 7","Age66-85","Married","England","Male",-0.481759419424106,0
+"16 or under","Level 2 20~39k","Level 2","Age46-65","Married","England","Female",0,1
+"17-19","Level 1 0~19k","Level 5","Age46-65","Single","England","Female",-0.0547933946960385,0
+"16 or under","Level 2 20~39k","Level 2","Age66-85","Married","England","Male",-0.097613498485227,1
+"16 or under","Level 2 20~39k","Level 1","Age36-45","Single","England","Male",0.352710693416966,1
+"17-19","Level 1 0~19k","Level 8","Age46-65","Single","England","Male",-0.0748866078999521,1
+"16 or under","Level 1 0~19k","Level 3","Age66-85","Married","England","Male",0.563330029081665,1
+"20 or above","Level 2 20~39k","Level 7","AgeOver85","Married","England","Female",-0.374561887674369,0
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Single","England","Male",-0.271332964569215,0
+"17-19","Level 2 20~39k","Level 6","Age66-85","Single","Scotland","Male",-0.0734095267521238,0
+"20 or above","Level 2 20~39k","Level 6","Age36-45","Single","England","Male",-0.651190999348809,0
+"16 or under","Level 2 20~39k","Level 3","Age66-85","Married","England","Male",-0.60872737649375,1
+"16 or under","Level 1 0~19k","Level 6","Age66-85","Single","Scotland","Female",0.385158395862312,0
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Married","England","Female",-0.0378467186399446,0
+"17-19","Level 2 20~39k","Level 4","Age66-85","Married","England","Male",0.463031984037967,1
+"16 or under","Level 1 0~19k","Level 1","Age66-85","Married","England","Male",0.502851225700645,1
+"17-19","Level 3 40~59k","Level 7","Age66-85","Married","Scotland","Male",0.32301887864148,0
+"20 or above","Level 4 60~99k","Level 4","Age46-65","Married","England","Female",-0.234772582027808,1
+"17-19","Level 4 60~99k","Level 6","Age46-65","Married","England","Male",-0.27276694368,0
+"20 or above","Level 4 60~99k","Level 6","Age46-65","Married","Scotland","Male",0.12381481308353,1
+"16 or under","Level 2 20~39k","Level 7","Age46-65","Married","England","Male",0.259433803956609,1
+"20 or above","Level 4 60~99k","Level 6","Age46-65","Married","England","Female",1.3668727338271,1
+"16 or under","Level 1 0~19k","Level 3","Age66-85","Single","England","Female",0.0854476168375619,1
+"17-19","Level 1 0~19k","Level 4","Age66-85","Single","England","Female",0.140844848495238,1
+"16 or under","Level 2 20~39k","Level 2","Age46-65","Married","England","Female",0.0848287997586899,1
+"16 or under","Level 1 0~19k","Level 4","Age66-85","Single","England","Male",0,1
+"20 or above","Level 4 60~99k","Level 7","Age46-65","Married","England","Female",-0.292896347413545,0
+"20 or above","Level 3 40~59k","Level 8","Age46-65","Married","England","Male",0,0
+"20 or above","Level 4 60~99k","Level 6","Age46-65","Single","England","Male",0,1
+"16 or under","Level 1 0~19k","Level 3","Age46-65","Single","England","Male",0.118614224642676,1
+"20 or above","Level 2 20~39k","Level 7","AgeOver85","Single","England","Female",0,0
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Married","England","Male",0.284380104147097,1
+"16 or under","Level 1 0~19k","Level 5","Age46-65","Married","England","Female",-0.142848418737231,0
+"16 or under","Level 1 0~19k","Level 6","Age46-65","Married","England","Male",0.467635978536774,1
+"20 or above","Level 2 20~39k","Level 6","AgeOver85","Married","England","Female",0,1
+"20 or above","Level 2 20~39k","Level 7","Age66-85","Married","England","Female",-0.288306329040081,0
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Married","England","Female",-0.859143222587113,0
+"20 or above","Level 4 60~99k","Level 7","AgeOver85","Married","England","Female",-0.143190537384233,0
+"16 or under","Level 2 20~39k","Level 1","Age46-65","Married","England","Female",0.581499209184195,1
+"20 or above","Level 2 20~39k","Level 5","Age46-65","Single","England","Female",0.268430067344473,1
+"20 or above","Level 1 0~19k","Level 5","Age46-65","Single","England","Female",-0.277742811967419,0
+"17-19","Level 3 40~59k","Level 1","Age46-65","Married","England","Male",-0.477527845872312,0
+"20 or above","Level 3 40~59k","Level 7","Age46-65","Single","Wales","Male",-0.350832,1
+"20 or above","Level 4 60~99k","Level 6","Age36-45","Married","England","Female",-0.573483145658354,0
+"20 or above","Level 4 60~99k","Level 5","AgeOver85","Married","Wales","Male",-0.103222749846179,0
+"16 or under","Level 1 0~19k","Level 6","Age66-85","Married","England","Female",-0.584019068436775,1
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Married","England","Male",0.223730545299643,1
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Married","Scotland","Male",-0.2202285804766,0
+"20 or above","Level 1 0~19k","Level 1","Age46-65","Married","England","Female",0.559400457298064,1
+"20 or above","Level 3 40~59k","Level 5","AgeOver85","Single","England","Female",-0.504573582118065,0
+"20 or above","Level 2 20~39k","Level 5","Age46-65","Single","England","Female",-0.325477426340974,1
+"16 or under","Level 2 20~39k","Level 2","Age46-65","Married","England","Male",0.151532033492175,1
+"17-19","Level 1 0~19k","Level 5","Age46-65","Single","Wales","Male",0.295482154399207,1
+"16 or under","Level 2 20~39k","Level 5","AgeOver85","Married","England","Female",0,0
+"20 or above","Level 2 20~39k","Level 7","Age66-85","Married","England","Male",-0.3174867,0
+"20 or above","Level 4 60~99k","Level 7","AgeOver85","Single","England","Male",0.88055755884871,0
+"17-19","Level 2 20~39k","Level 5","Age66-85","Married","Wales","Female",0.525163627203142,1
+"20 or above","Level 1 0~19k","Level 4","Age46-65","Single","England","Male",-2.08847301104129,0
+"17-19","Level 1 0~19k","Level 6","AgeOver85","Single","England","Female",-1.17903440371871,0
+"16 or under","Level 2 20~39k","Level 7","Age66-85","Single","England","Female",-0.418746264026147,0
+"16 or under","Level 3 40~59k","Level 7","Age46-65","Married","England","Male",0.183470166483197,1
+"17-19","Level 2 20~39k","Level 7","Age66-85","Married","England","Female",0.380253316586843,1
+"16 or under","Level 3 40~59k","Level 6","Age46-65","Married","England","Male",3.24775193089742,1
+"17-19","Level 2 20~39k","Level 5","Age46-65","Single","England","Female",0.506110468540797,0
+"16 or under","Level 2 20~39k","Level 3","Age66-85","Married","England","Male",0.297819131187252,1
+"17-19","Level 1 0~19k","Level 7","Age66-85","Married","England","Male",-0.167126802211029,0
+"16 or under","Level 4 60~99k","Level 8","AgeOver85","Married","Scotland","Female",0.190945368839913,0
+"17-19","Level 1 0~19k","Level 5","Age46-65","Married","England","Female",-0.147801587532843,1
+"20 or above","Level 4 60~99k","Level 7","Age36-45","Married","Scotland","Male",-0.76367156711113,0
+"20 or above","Level 3 40~59k","Level 4","Age66-85","Married","England","Male",-0.118700694500009,0
+"16 or under","Level 2 20~39k","Level 2","Age46-65","Married","England","Male",-0.367525397926989,0
+"17-19","Level 2 20~39k","Level 5","Age46-65","Married","England","Female",0.231809846473351,1
+"16 or under","Level 3 40~59k","Level 6","Age36-45","Single","England","Male",0,1
+"16 or under","Level 1 0~19k","Level 3","Age46-65","Single","England","Female",0.412348349639032,1
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Married","England","Female",0,1
+"16 or under","Level 1 0~19k","Level 2","Age36-45","Married","Wales","Female",-0.463849539314722,0
+"16 or under","Level 1 0~19k","Level 6","Age66-85","Single","Scotland","Male",-0.092243005764799,0
+"20 or above","Level 3 40~59k","Level 7","Age66-85","Married","England","Male",0.346095607797564,1
+"20 or above","Level 3 40~59k","Level 7","Age46-65","Single","England","Male",-0.280794203285012,0
+"16 or under","Level 3 40~59k","Level 6","Age36-45","Married","England","Male",-0.103141812851122,0
+"16 or under","Level 4 60~99k","Level 6","Age46-65","Married","England","Male",-0.378989480547097,0
+"17-19","Level 2 20~39k","Level 5","Age46-65","Married","England","Female",-1.08072794352488,0
+"16 or under","Level 1 0~19k","Level 1","Age66-85","Married","England","Male",0.694547975709677,1
+"20 or above","Level 2 20~39k","Level 7","Age36-45","Married","England","Female",0.884664713384266,1
+"17-19","Level 3 40~59k","Level 5","Age46-65","Married","England","Female",-0.302705253267617,0
+"20 or above","Level 2 20~39k","Level 5","Age36-45","Married","England","Male",-0.151137324406791,0
+"16 or under","Level 3 40~59k","Level 6","Age46-65","Married","Wales","Male",-0.125731359371903,0
+"17-19","Level 1 0~19k","Level 5","Age46-65","Single","England","Female",0.184434635592418,1
+"17-19","Level 1 0~19k","Level 7","Age66-85","Single","England","Male",0.375015480812728,1
+"16 or under","Level 1 0~19k","Level 2","Age66-85","Single","England","Male",-0.369368008722749,1
+"16 or under","Level 1 0~19k","Level 1","Age66-85","Married","England","Male",0.234667724854839,0
+"16 or under","Level 1 0~19k","Level 4","Age46-65","Married","England","Male",0.349355732432903,1
+"17-19","Level 1 0~19k","Level 1","Age46-65","Single","England","Male",0.424331301836129,1
+"20 or above","Level 2 20~39k","Level 7","Age66-85","Single","England","Male",0.293427119144133,1
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Married","England","Female",-0.411798985364516,0
+"17-19","Level 3 40~59k","Level 5","Age46-65","Married","Scotland","Female",0.123569929226494,1
+"17-19","Level 2 20~39k","Level 7","Age66-85","Married","England","Male",0.175943503070322,0
+"16 or under","Level 1 0~19k","Level 6","Age46-65","Single","Scotland","Male",0.0401119032968258,0
+"16 or under","Level 2 20~39k","Level 4","Age66-85","Married","England","Male",0.596321729179355,1
+"20 or above","Level 3 40~59k","Level 6","Age66-85","Single","England","Female",-0.0597050314897922,0
+"17-19","Level 1 0~19k","Level 2","Age66-85","Married","England","Female",0.3792765638745,1
+"20 or above","Level 4 60~99k","Level 7","Age66-85","Married","England","Female",0.521935936002363,1
+"20 or above","Level 2 20~39k","Level 8","Age66-85","Married","England","Male",0.880955441483914,1
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Single","Scotland","Male",-0.323158988654812,0
+"17-19","Level 1 0~19k","Level 6","Age66-85","Married","England","Male",-0.0972918507768177,1
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Married","England","Female",0,1
+"16 or under","Level 1 0~19k","Level 2","Age46-65","Single","England","Female",0.719423782393892,1
+"17-19","Level 1 0~19k","Level 6","Age66-85","Single","England","Male",-0.481448962775175,1
+"20 or above","Level 1 0~19k","Level 4","Age46-65","Married","England","Female",-0.491392067836931,0
+"16 or under","Level 1 0~19k","Level 5","Age66-85","Single","Scotland","Female",0.217079049288925,1
+"17-19","Level 4 60~99k","Level 2","Age36-45","Single","England","Male",-1.00988851901812,0
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Married","England","Male",0.92929753825781,1
+"16 or under","Level 2 20~39k","Level 6","Age46-65","Married","England","Male",0.362860886496006,0
+"17-19","Level 4 60~99k","Level 8","Age46-65","Single","England","Male",-0.208800086048602,1
+"17-19","Level 2 20~39k","Level 5","Age46-65","Single","England","Male",0.565216731344406,0
+"17-19","Level 1 0~19k","Level 6","Age66-85","Married","England","Female",0.6097225,1
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Single","England","Female",-0.700394017171317,0
+"16 or under","Level 4 60~99k","Level 1","Age46-65","Married","England","Female",-0.727419082340888,0
+"20 or above","Level 4 60~99k","Level 6","Age36-45","Married","England","Female",-0.99669334474278,0
+"16 or under","Level 2 20~39k","Level 5","Age66-85","Married","England","Female",-0.284885021741092,0
+"16 or under","Level 3 40~59k","Level 5","Age46-65","Married","Scotland","Male",0.402600401329249,0
+"17-19","Level 3 40~59k","Level 5","Age46-65","Married","Wales","Female",0.182962059289055,1
+"20 or above","Level 1 0~19k","Level 7","Age66-85","Single","England","Female",-0.692409511578172,1
+"17-19","Level 1 0~19k","Level 5","AgeOver85","Single","England","Female",-0.161826200323652,0
+"16 or under","Level 1 0~19k","Level 2","Age46-65","Single","England","Female",1.3646748191947,1
+"17-19","Level 2 20~39k","Level 1","Age36-45","Married","England","Female",0.754308898259228,1
+"16 or under","Level 1 0~19k","Level 6","Age66-85","Single","Scotland","Female",0.289438732529953,1
+"16 or under","Level 2 20~39k","Level 1","Age66-85","Married","England","Male",0.55859646523032,1
+"20 or above","Level 2 20~39k","Level 5","AgeOver85","Single","England","Male",1.07254742901818,0
+"17-19","Level 1 0~19k","Level 3","AgeOver85","Single","England","Female",-0.534188028165823,0
+"17-19","Level 2 20~39k","Level 6","Age46-65","Married","England","Male",-0.508219308647559,0
+"16 or under","Level 3 40~59k","Level 4","Age46-65","Single","England","Male",1.03061725657166,1
+"17-19","Level 2 20~39k","Level 5","Age66-85","Married","England","Female",-0.258458530862441,1
+"17-19","Level 4 60~99k","Level 6","Age46-65","Married","England","Male",0.122226558899708,0
+"16 or under","Level 2 20~39k","Level 7","Age66-85","Married","England","Male",-0.524198718511058,0
+"16 or under","Level 2 20~39k","Level 4","Age36-45","Married","England","Male",1.09099632440579,1
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Single","England","Male",0.0859866740711275,1
+"16 or under","Level 2 20~39k","Level 3","Age66-85","Married","England","Male",0.867965500348455,1
+"17-19","Level 4 60~99k","Level 6","Age46-65","Married","England","Male",-0.629501207315975,1
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Married","England","Female",0,0
+"20 or above","Level 3 40~59k","Level 6","Age46-65","Married","England","Female",-0.592552437474166,0
+"17-19","Level 2 20~39k","Level 3","Age66-85","Married","England","Female",-0.379846695844713,0
+"17-19","Level 2 20~39k","Level 2","Age46-65","Single","England","Female",0,0
+"16 or under","Level 1 0~19k","Level 4","Age66-85","Single","England","Male",0.372397643114482,1
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Single","Wales","Male",-0.208721881243837,0
+"16 or under","Level 5 100k or above","Level 8","Age46-65","Single","England","Male",-0.304435036526966,0
+"17-19","Level 1 0~19k","Level 6","Age19-35","Single","England","Male",-0.974784770142052,0
+"17-19","Level 1 0~19k","Level 5","Age36-45","Single","England","Female",-0.381616225619839,0
+"16 or under","Level 2 20~39k","Level 5","Age36-45","Single","England","Female",-0.602159035989637,0
+"16 or under","Level 1 0~19k","Level 6","Age46-65","Single","England","Female",-1.0705019524404,0
+"16 or under","Level 4 60~99k","Level 7","Age46-65","Married","England","Female",-0.346101119040888,0
+"17-19","Level 1 0~19k","Level 2","Age46-65","Married","England","Female",0.215647465537895,1
+"16 or under","Level 2 20~39k","Level 2","Age46-65","Single","England","Male",0.409295427776425,1
+"20 or above","Level 3 40~59k","Level 6","Age19-35","Married","England","Male",-0.68960420599241,0
+"20 or above","Level 2 20~39k","Level 6","Age36-45","Single","England","Male",0.762683527239505,0
+"16 or under","Level 1 0~19k","Level 5","Age66-85","Single","England","Female",0.877537960740629,1
+"16 or under","Level 1 0~19k","Level 6","Age46-65","Married","England","Female",0.198157504334215,1
+"16 or under","Level 1 0~19k","Level 2","Age46-65","Single","England","Female",0.141390966525276,1
+"17-19","Level 1 0~19k","Level 6","Age46-65","Married","England","Female",-0.929158578451173,0
+"16 or under","Level 2 20~39k","Level 7","Age46-65","Married","England","Male",0.208800086048602,1
+"17-19","Level 2 20~39k","Level 6","Age46-65","Married","England","Female",0.141438101616837,1
+"20 or above","Level 3 40~59k","Level 6","Age36-45","Single","England","Male",-0.384056266858695,0
+"20 or above","Level 3 40~59k","Level 5","Age36-45","Married","England","Female",0.108080856409996,1
+"20 or above","Level 2 20~39k","Level 7","Age46-65","Married","England","Male",-0.485873992627061,0
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Single","England","Male",-0.420629396921819,1
+"17-19","Level 3 40~59k","Level 1","Age46-65","Married","England","Male",1.29755261277828,1
+"17-19","Level 3 40~59k","Level 6","Age46-65","Married","Wales","Male",-0.256815633790357,0
+"20 or above","Level 2 20~39k","Level 5","Age46-65","Married","England","Female",-0.272086613050992,0
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Single","England","Male",0.7130665,1
+"17-19","Level 2 20~39k","Level 6","Age66-85","Single","England","Female",0.429869310028009,1
+"17-19","Level 3 40~59k","Level 7","Age36-45","Married","Scotland","Male",0,1
+"20 or above","Level 2 20~39k","Level 5","Age66-85","Married","Scotland","Female",-0.450514571844759,0
+"20 or above","Level 2 20~39k","Level 7","Age36-45","Married","England","Male",-0.863192084656421,0
+"16 or under","Level 4 60~99k","Level 3","Age36-45","Married","England","Male",0.269208211577105,0
+"16 or under","Level 2 20~39k","Level 4","Age66-85","Married","England","Male",-0.106228647072698,0
+"16 or under","Level 2 20~39k","Level 6","Age46-65","Married","England","Female",0.480288840876131,1
+"17-19","Level 1 0~19k","Level 4","Age46-65","Married","England","Male",0.172207956996871,1
+"17-19","Level 1 0~19k","Level 6","Age46-65","Single","England","Female",0.448530209608306,1
+"20 or above","Level 3 40~59k","Level 6","Age46-65","Married","England","Female",-0.119906789615262,0
+"17-19","Level 1 0~19k","Level 3","Age46-65","Married","England","Female",0.712550402404646,1
+"20 or above","Level 2 20~39k","Level 4","AgeOver85","Single","England","Male",-0.747335770481138,1
+"16 or under","Level 2 20~39k","Level 2","Age36-45","Married","England","Male",0.756484385648012,1
+"17-19","Level 3 40~59k","Level 8","Age66-85","Married","Wales","Male",0,1
+"17-19","Level 2 20~39k","Level 6","AgeOver85","Married","England","Male",-0.954855260356395,1
+"17-19","Level 1 0~19k","Level 7","Age46-65","Married","England","Male",-0.6230177,1
+"17-19","Level 3 40~59k","Level 6","Age46-65","Married","England","Female",-0.431294929781905,0
+"17-19","Level 1 0~19k","Level 2","AgeOver85","Single","England","Female",0.642229450967987,1
+"17-19","Level 4 60~99k","Level 7","Age46-65","Single","England","Male",0.629501207315975,1
+"17-19","Level 3 40~59k","Level 5","Age46-65","Married","England","Female",-0.350197008060363,0
+"20 or above","Level 2 20~39k","Level 5","Age46-65","Married","England","Female",-0.6348303454067,0
+"17-19","Level 2 20~39k","Level 7","AgeOver85","Single","England","Male",0.183959888436303,1
+"20 or above","Level 2 20~39k","Level 6","Age36-45","Single","Scotland","Male",-0.415004417680076,0
+"20 or above","Level 2 20~39k","Level 7","Age46-65","Single","England","Female",0.314657756132684,1
+"16 or under","Level 1 0~19k","Level 1","Age66-85","Married","England","Male",0.436096504197172,1
+"20 or above","Level 3 40~59k","Level 6","Age36-45","Single","England","Female",0.490939086858994,0
+"16 or under","Level 2 20~39k","Level 5","Age66-85","Married","England","Female",-0.155135517076362,0
+"16 or under","Level 2 20~39k","Level 2","Age46-65","Married","England","Female",0.827607925300018,1
+"16 or under","Level 2 20~39k","Level 2","AgeOver85","Single","England","Female",-0.468835110191862,0
+"20 or above","Level 2 20~39k","Level 5","AgeOver85","Single","England","Female",0,0
+"16 or under","Level 3 40~59k","Level 8","Age36-45","Married","England","Male",-0.958180415841817,0
+"16 or under","Level 1 0~19k","Level 1","Age46-65","Single","England","Male",3.33615440214113,1
+"16 or under","Level 1 0~19k","Level 2","Age66-85","Married","England","Female",-0.127415440508341,1
+"20 or above","Level 5 100k or above","Level 6","Age46-65","Married","England","Male",-0.334304371610344,0
+"16 or under","Level 1 0~19k","Level 5","Age66-85","Single","England","Female",0.261767896218673,1
+"20 or above","Level 2 20~39k","Level 8","Age66-85","Married","England","Male",0.539024909068766,1
+"16 or under","Level 1 0~19k","Level 6","AgeOver85","Single","England","Male",0.292435597471566,1
+"17-19","Level 2 20~39k","Level 8","Age66-85","Single","England","Female",-0.81681790964271,1
+"17-19","Level 2 20~39k","Level 7","Age19-35","Single","England","Male",0,0
+"16 or under","Level 1 0~19k","Level 1","Age66-85","Married","England","Male",0.678154952778362,1
+"20 or above","Level 3 40~59k","Level 6","Age36-45","Married","Scotland","Male",-0.948980814330074,0
+"20 or above","Level 2 20~39k","Level 7","Age66-85","Married","England","Male",0.134756227469326,1
+"16 or under","Level 2 20~39k","Level 3","Age36-45","Single","Scotland","Male",0,0
+"16 or under","Level 3 40~59k","Level 7","Age46-65","Married","England","Male",-0.119165153027654,0
+"16 or under","Level 1 0~19k","Level 6","Age46-65","Married","England","Male",0,1
+"20 or above","Level 1 0~19k","Level 1","Age46-65","Single","England","Female",-1.735297,0
+"17-19","Level 1 0~19k","Level 5","Age46-65","Single","England","Male",0.64445991501386,1
+"16 or under","Level 2 20~39k","Level 3","Age66-85","Single","Scotland","Male",-0.198848875542778,1
+"20 or above","Level 1 0~19k","Level 6","Age46-65","Single","England","Female",-0.57444823033407,0
+"20 or above","Level 2 20~39k","Level 7","Age46-65","Married","Scotland","Male",-0.389253966032069,0
+"16 or under","Level 1 0~19k","Level 3","Age36-45","Single","England","Female",0,0
+"20 or above","Level 3 40~59k","Level 6","Age46-65","Married","England","Male",-0.533459115308382,0
+"16 or under","Level 1 0~19k","Level 5","Age46-65","Married","England","Female",-0.201529744010106,0
+"17-19","Level 3 40~59k","Level 3","AgeOver85","Single","England","Female",-0.536820283411905,0
+"20 or above","Level 5 100k or above","Level 7","Age36-45","Single","England","Male",0,0
+"20 or above","Level 1 0~19k","Level 2","Age46-65","Single","Scotland","Female",0,1
+"17-19","Level 2 20~39k","Level 6","Age19-35","Married","England","Female",0.349930685243504,1
+"16 or under","Level 1 0~19k","Level 2","Age46-65","Single","England","Female",-0.28418636638248,1
+"20 or above","Level 4 60~99k","Level 6","Age36-45","Single","England","Male",-0.7454401,0
+"17-19","Level 2 20~39k","Level 6","Age46-65","Single","England","Male",0.346316857511777,1
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Married","England","Female",-0.396138481862881,0
+"17-19","Level 2 20~39k","Level 5","Age46-65","Single","England","Female",-0.303637354309825,1
+"20 or above","Level 3 40~59k","Level 7","Age36-45","Single","England","Male",-1.10249255157094,0
+"20 or above","Level 3 40~59k","Level 5","Age36-45","Married","England","Male",-1.051872135247,1
+"16 or under","Level 4 60~99k","Level 2","Age46-65","Single","England","Male",0.477591271384278,1
+"20 or above","Level 4 60~99k","Level 5","AgeOver85","Married","England","Female",-0.5061071203839,0
+"16 or under","Level 1 0~19k","Level 5","Age66-85","Married","England","Male",-0.0911290054608757,1
+"16 or under","Level 3 40~59k","Level 5","Age46-65","Married","England","Female",0.463099798620295,1
+"16 or under","Level 2 20~39k","Level 1","Age36-45","Single","England","Male",-1.36123196963703,1
+"20 or above","Level 4 60~99k","Level 5","Age36-45","Married","Scotland","Female",-0.357267836157885,0
+"17-19","Level 2 20~39k","Level 6","Age46-65","Single","Wales","Female",-0.280640944478009,0
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Single","England","Female",-0.650049957068936,0
+"17-19","Level 4 60~99k","Level 5","Age36-45","Married","England","Male",1.06695155937717,0
+"17-19","Level 3 40~59k","Level 1","Age36-45","Married","England","Female",0.180655740495614,1
+"17-19","Level 4 60~99k","Level 8","Age19-35","Married","England","Female",-0.51410580162977,1
+"16 or under","Level 2 20~39k","Level 3","Age46-65","Married","England","Male",-0.322500961259448,0
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Married","England","Female",0,0
+"20 or above","Level 3 40~59k","Level 7","Age66-85","Single","England","Female",-0.236728677985902,0
+"20 or above","Level 4 60~99k","Level 5","AgeOver85","Single","Scotland","Female",0,1
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Single","Wales","Female",-0.258102511310352,0
+"17-19","Level 2 20~39k","Level 6","Age66-85","Married","Scotland","Male",0.265843045171676,1
+"17-19","Level 1 0~19k","Level 3","Age46-65","Married","England","Male",-0.6166273,0
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Married","England","Female",-0.506489889675956,0
+"16 or under","Level 1 0~19k","Level 5","Age66-85","Married","England","Female",0.137311599539563,1
+"20 or above","Level 2 20~39k","Level 5","AgeOver85","Single","England","Male",0,0
+"17-19","Level 1 0~19k","Level 5","Age36-45","Single","England","Female",-0.410210078313348,1
+"17-19","Level 1 0~19k","Level 5","Age66-85","Single","England","Female",-0.208692799560589,1
+"17-19","Level 3 40~59k","Level 7","Age66-85","Married","England","Male",-0.399365457268762,1
+"16 or under","Level 2 20~39k","Level 2","Age46-65","Married","England","Female",0,1
+"17-19","Level 1 0~19k","Level 5","AgeOver85","Single","Wales","Female",-0.346821733506744,0
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Married","England","Male",-0.632474733649571,0
+"17-19","Level 1 0~19k","Level 5","Age46-65","Married","England","Male",-0.596358431451805,0
+"20 or above","Level 1 0~19k","Level 6","Age46-65","Single","England","Female",1.255212,0
+"17-19","Level 2 20~39k","Level 6","Age46-65","Married","England","Male",-0.729461175042285,0
+"17-19","Level 3 40~59k","Level 2","Age46-65","Single","England","Female",0,1
+"20 or above","Level 3 40~59k","Level 5","Age36-45","Single","England","Female",-0.930675625834558,0
+"17-19","Level 2 20~39k","Level 3","Age46-65","Married","England","Male",0.136716844261638,1
+"17-19","Level 2 20~39k","Level 6","Age46-65","Married","England","Female",-0.146755750776057,0
+"20 or above","Level 5 100k or above","Level 7","Age36-45","Married","England","Male",-0.682894000341447,1
+"17-19","Level 2 20~39k","Level 2","Age46-65","Single","England","Female",-0.130530383594394,1
+"17-19","Level 2 20~39k","Level 6","Age46-65","Married","England","Male",-0.729461175042285,0
+"16 or under","Level 1 0~19k","Level 3","Age66-85","Married","England","Male",0.628958895566942,1
+"20 or above","Level 4 60~99k","Level 6","Age46-65","Married","Scotland","Male",-0.165641023713199,1
+"20 or above","Level 2 20~39k","Level 6","Age36-45","Single","England","Female",-0.398550451888071,1
+"20 or above","Level 3 40~59k","Level 5","Age36-45","Married","England","Female",0,0
+"20 or above","Level 3 40~59k","Level 2","Age46-65","Married","England","Female",-0.361475936871557,1
+"17-19","Level 2 20~39k","Level 6","Age46-65","Married","England","Male",-0.657801310188588,0
+"17-19","Level 2 20~39k","Level 1","Age46-65","Married","England","Male",0.396654162908754,1
+"16 or under","Level 1 0~19k","Level 4","Age66-85","Single","Wales","Male",-0.835707435264724,1
+"20 or above","Level 3 40~59k","Level 6","Age46-65","Married","England","Male",-0.167079132011055,0
+"17-19","Level 4 60~99k","Level 5","Age46-65","Married","England","Male",-0.331704951526262,0
+"17-19","Level 1 0~19k","Level 2","Age46-65","Single","England","Female",0.299662482603294,1
+"16 or under","Level 1 0~19k","Level 6","Age66-85","Single","Wales","Male",-0.467358834214673,0
+"16 or under","Level 1 0~19k","Level 1","Age46-65","Married","England","Female",-0.152985644428232,0
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Married","England","Female",-0.31181788890272,0
+"16 or under","Level 4 60~99k","Level 3","Age46-65","Married","England","Male",0.791876282074778,0
+"20 or above","Level 3 40~59k","Level 6","Age46-65","Married","England","Male",-0.507137582266081,0
+"16 or under","Level 2 20~39k","Level 3","Age36-45","Single","England","Male",2.60754454414565,1
+"16 or under","Level 1 0~19k","Level 2","Age46-65","Single","England","Male",-0.430675066882004,0
+"20 or above","Level 2 20~39k","Level 6","AgeOver85","Single","Scotland","Female",-0.979979371185736,0
+"20 or above","Level 1 0~19k","Level 4","Age46-65","Married","England","Male",0,1
+"17-19","Level 1 0~19k","Level 3","AgeOver85","Single","England","Male",0.261070116975025,1
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Single","England","Female",-0.803906210217215,0
+"20 or above","Level 2 20~39k","Level 5","AgeOver85","Single","England","Male",1.98228428508742,0
+"20 or above","Level 1 0~19k","Level 4","AgeOver85","Single","England","Female",0.826771053821248,1
+"16 or under","Level 1 0~19k","Level 1","Age66-85","Married","England","Male",0.510648250068305,1
+"17-19","Level 1 0~19k","Level 6","Age66-85","Single","Wales","Female",-0.0989275202981565,0
+"20 or above","Level 4 60~99k","Level 7","Age46-65","Single","England","Male",0.648531960809025,0
+"17-19","Level 5 100k or above","Level 6","Age46-65","Married","England","Male",0.0478365327140301,1
+"20 or above","Level 2 20~39k","Level 8","Age66-85","Married","England","Male",-0.415849551967474,1
+"17-19","Level 2 20~39k","Level 2","Age36-45","Married","England","Female",0,0
+"20 or above","Level 2 20~39k","Level 3","Age46-65","Married","Wales","Male",-0.333033974414278,0
+"17-19","Level 2 20~39k","Level 1","Age46-65","Single","England","Male",0,1
+"16 or under","Level 2 20~39k","Level 3","Age66-85","Married","England","Male",0.420965985598555,1
+"20 or above","Level 5 100k or above","Level 6","Age46-65","Single","England","Male",-1.49347999204211,0
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Married","England","Female",-0.61578122638329,1
+"20 or above","Level 4 60~99k","Level 6","Age46-65","Married","England","Male",-0.463794874207808,0
+"17-19","Level 2 20~39k","Level 5","Age46-65","Single","Scotland","Male",-0.564580910857323,0
+"20 or above","Level 2 20~39k","Level 6","Age19-35","Married","England","Female",-0.133024461827396,0
+"16 or under","Level 1 0~19k","Level 1","Age46-65","Single","Wales","Female",0.832681397749674,1
+"20 or above","Level 5 100k or above","Level 6","Age46-65","Married","England","Male",0.214197453050432,0
+"20 or above","Level 1 0~19k","Level 6","Age46-65","Single","Scotland","Male",-0.636266321967402,0
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Single","England","Female",-0.650971572334163,0
+"17-19","Level 2 20~39k","Level 7","Age46-65","Single","England","Female",0.0768057840872324,1
+"20 or above","Level 3 40~59k","Level 5","AgeOver85","Married","England","Female",0.165288808776421,1
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Married","England","Female",0.105370285706413,1
+"17-19","Level 4 60~99k","Level 5","Age36-45","Married","Scotland","Female",-0.240987302380587,0
+"17-19","Level 2 20~39k","Level 6","AgeOver85","Single","England","Male",-1.93301064002575,0
+"17-19","Level 4 60~99k","Level 6","Age19-35","Married","England","Male",-0.335834918051248,0
+"17-19","Level 3 40~59k","Level 6","Age66-85","Single","England","Female",-0.136357889918522,1
+"17-19","Level 2 20~39k","Level 6","Age66-85","Single","England","Female",-0.604477367384065,1
+"16 or under","Level 1 0~19k","Level 5","Age46-65","Single","England","Female",1.26796448216305,0
+"16 or under","Level 2 20~39k","Level 7","Age66-85","Married","England","Female",-0.893858363505915,0
+"20 or above","Level 4 60~99k","Level 1","Age36-45","Married","England","Male",-0.782172938070465,0
+"20 or above","Level 2 20~39k","Level 7","Age66-85","Married","England","Male",-0.31662080015831,0
+"17-19","Level 2 20~39k","Level 5","AgeOver85","Single","Scotland","Female",0.222826582464095,1
+"17-19","Level 3 40~59k","Level 4","Age36-45","Married","England","Female",-0.150550687672997,0
+"16 or under","Level 3 40~59k","Level 6","Age66-85","Married","England","Female",0.80601929328625,1
+"17-19","Level 2 20~39k","Level 5","AgeOver85","Single","England","Male",0,0
+"20 or above","Level 1 0~19k","Level 6","Age36-45","Single","England","Male",-1.25061655333688,0
+"16 or under","Level 1 0~19k","Level 6","Age66-85","Single","England","Female",0.560522818408245,0
+"16 or under","Level 4 60~99k","Level 8","Age36-45","Single","England","Female",-0.389647978439582,0
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Married","Scotland","Female",-0.454902949528553,0
+"16 or under","Level 1 0~19k","Level 4","Age66-85","Single","Wales","Female",-0.495774590436059,1
+"16 or under","Level 1 0~19k","Level 5","Age46-65","Single","England","Female",-0.386568357092442,0
+"17-19","Level 2 20~39k","Level 5","Age46-65","Married","England","Male",0.4928987,1
+"16 or under","Level 3 40~59k","Level 5","Age46-65","Single","England","Female",0.589406979495744,1
+"17-19","Level 1 0~19k","Level 6","Age66-85","Married","England","Male",0.0942679059291441,1
+"16 or under","Level 1 0~19k","Level 5","Age66-85","Single","England","Female",1.58638444180703,1
+"20 or above","Level 1 0~19k","Level 6","Age46-65","Single","England","Female",0.285362239829547,1
+"16 or under","Level 1 0~19k","Level 3","Age46-65","Single","England","Male",0.732227811994634,1
+"16 or under","Level 1 0~19k","Level 4","Age66-85","Married","Scotland","Female",0.964297157141839,1
+"16 or under","Level 3 40~59k","Level 6","Age66-85","Married","England","Female",0.90671605062274,1
+"16 or under","Level 3 40~59k","Level 5","Age46-65","Married","England","Male",0.281978668778806,1
+"17-19","Level 2 20~39k","Level 5","Age46-65","Married","England","Female",0.410580788769044,0
+"17-19","Level 1 0~19k","Level 6","Age36-45","Single","England","Female",0,1
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Single","Scotland","Female",-0.351416726764685,0
+"20 or above","Level 3 40~59k","Level 7","Age36-45","Single","England","Male",-0.668597799666652,1
+"20 or above","Level 1 0~19k","Level 6","Age46-65","Married","Wales","Male",-0.1777431295,0
+"17-19","Level 1 0~19k","Level 6","Age46-65","Single","England","Female",0,1
+"17-19","Level 3 40~59k","Level 2","Age46-65","Married","England","Female",0.461000876486976,1
+"16 or under","Level 3 40~59k","Level 3","Age66-85","Single","England","Male",0,1
+"16 or under","Level 3 40~59k","Level 7","Age36-45","Single","England","Female",-0.328410162009374,0
+"17-19","Level 3 40~59k","Level 5","AgeOver85","Single","England","Female",-0.735952149222319,0
+"20 or above","Level 3 40~59k","Level 6","Age46-65","Married","England","Female",-0.509506580507355,1
+"16 or under","Level 2 20~39k","Level 3","Age66-85","Married","England","Male",-0.325716765777637,1
+"17-19","Level 2 20~39k","Level 6","Age66-85","Married","England","Male",0,1
+"16 or under","Level 2 20~39k","Level 4","Age66-85","Married","Wales","Male",-0.49987900155072,0
+"16 or under","Level 2 20~39k","Level 3","Age66-85","Single","England","Female",0.90671605062274,1
+"16 or under","Level 2 20~39k","Level 7","Age66-85","Married","England","Male",0.188188461072599,0
+"16 or under","Level 1 0~19k","Level 5","Age66-85","Single","England","Female",0.171961059626097,1
+"17-19","Level 1 0~19k","Level 1","Age66-85","Married","England","Male",0.780046971863439,1
+"20 or above","Level 1 0~19k","Level 2","Age46-65","Married","England","Female",-0.386660689130893,0
+"16 or under","Level 2 20~39k","Level 3","Age66-85","Married","England","Male",-0.224442319849817,0
+"16 or under","Level 1 0~19k","Level 2","Age66-85","Married","England","Female",0.492624981549994,1
+"17-19","Level 3 40~59k","Level 6","Age19-35","Married","England","Male",-1.41227712303338,0
+"16 or under","Level 3 40~59k","Level 6","Age46-65","Married","England","Female",-0.170171602235965,0
+"16 or under","Level 1 0~19k","Level 6","Age66-85","Married","England","Male",-0.280643990118393,1
+"16 or under","Level 1 0~19k","Level 5","Age46-65","Single","England","Female",0.468962489784767,1
+"20 or above","Level 2 20~39k","Level 5","Age46-65","Married","England","Male",-0.818337531235339,0
+"16 or under","Level 4 60~99k","Level 7","Age46-65","Married","England","Female",-0.515682492194245,0
+"16 or under","Level 1 0~19k","Level 1","Age46-65","Single","England","Male",-1.18569296264322,0
+"17-19","Level 1 0~19k","Level 4","Age66-85","Married","England","Female",-0.293480275262333,0
+"16 or under","Level 3 40~59k","Level 5","Age46-65","Married","England","Male",-0.198907393923387,0
+"16 or under","Level 1 0~19k","Level 4","Age66-85","Married","England","Male",-0.463439163911734,0
+"16 or under","Level 2 20~39k","Level 4","Age66-85","Married","England","Female",0.55468804556895,1
+"20 or above","Level 3 40~59k","Level 5","Age66-85","Married","England","Female",-0.288321903777586,0
+"17-19","Level 2 20~39k","Level 3","Age46-65","Married","Scotland","Male",-0.364616526841836,1
+"17-19","Level 1 0~19k","Level 5","Age36-45","Single","England","Female",-0.120201024317066,0
+"17-19","Level 1 0~19k","Level 5","Age46-65","Married","England","Female",-0.483285172825189,0
+"20 or above","Level 5 100k or above","Level 7","Age36-45","Married","England","Male",0,1
+"20 or above","Level 3 40~59k","Level 7","Age46-65","Married","England","Male",-0.441016533302642,0
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Married","England","Male",-0.540668911081984,1
+"17-19","Level 1 0~19k","Level 2","Age66-85","Married","England","Female",0.80601929328625,1
+"16 or under","Level 1 0~19k","Level 3","Age66-85","Single","England","Male",0.244808886169797,1
+"16 or under","Level 1 0~19k","Level 6","Age66-85","Married","Wales","Male",0.276347355695427,1
+"20 or above","Level 3 40~59k","Level 7","Age46-65","Married","England","Male",-0.709964968852808,0
+"16 or under","Level 1 0~19k","Level 5","Age66-85","Single","England","Female",-0.118322552854519,1
+"20 or above","Level 3 40~59k","Level 6","Age46-65","Married","Wales","Female",-0.33038032786852,0
+"17-19","Level 3 40~59k","Level 4","Age46-65","Single","England","Female",0.258218438139183,1
+"20 or above","Level 1 0~19k","Level 6","Age46-65","Single","England","Female",0,1
+"16 or under","Level 1 0~19k","Level 5","Age66-85","Married","Wales","Male",0.414790697487903,1
+"20 or above","Level 3 40~59k","Level 7","Age66-85","Married","England","Male",-0.283859172388203,0
+"16 or under","Level 4 60~99k","Level 6","Age66-85","Married","England","Female",-0.355008112303333,0
+"16 or under","Level 2 20~39k","Level 1","Age66-85","Married","England","Male",0.695158745520021,1
+"20 or above","Level 4 60~99k","Level 7","Age66-85","Married","England","Male",0.255916015542746,1
+"16 or under","Level 5 100k or above","Level 7","Age46-65","Single","England","Female",0.227819971223675,1
+"16 or under","Level 2 20~39k","Level 1","Age66-85","Married","Wales","Male",-0.334668857766129,1
+"16 or under","Level 1 0~19k","Level 4","Age46-65","Single","England","Male",-0.330847631109438,0
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Single","England","Female",0.611660068688913,1
+"20 or above","Level 2 20~39k","Level 7","Age46-65","Married","England","Male",-1.140695,0
+"20 or above","Level 2 20~39k","Level 7","AgeOver85","Single","England","Male",-0.932610661889289,0
+"16 or under","Level 1 0~19k","Level 1","Age66-85","Married","England","Male",0.12836561080306,0
+"16 or under","Level 2 20~39k","Level 5","Age66-85","Single","England","Female",-0.27777673671541,1
+"17-19","Level 2 20~39k","Level 5","Age36-45","Married","England","Male",1.56364716606109,1
+"16 or under","Level 4 60~99k","Level 1","Age46-65","Married","England","Male",0.412611174685563,1
+"16 or under","Level 5 100k or above","Level 6","Age46-65","Married","England","Male",-0.505403555098174,0
+"20 or above","Level 2 20~39k","Level 7","Age46-65","Married","England","Male",0.352308595781973,1
+"20 or above","Level 3 40~59k","Level 7","Age66-85","Married","Scotland","Male",-0.306201887868053,0
+"20 or above","Level 3 40~59k","Level 5","Age66-85","Single","England","Male",-0.69323228926937,0
+"17-19","Level 1 0~19k","Level 6","Age46-65","Married","England","Male",-0.603203744657692,0
+"16 or under","Level 1 0~19k","Level 3","Age66-85","Single","England","Female",0.259184280713668,1
+"17-19","Level 2 20~39k","Level 5","AgeOver85","Married","England","Male",-0.492861514377365,1
+"16 or under","Level 1 0~19k","Level 6","Age66-85","Single","England","Male",-0.471937643197136,1
+"20 or above","Level 4 60~99k","Level 8","AgeOver85","Married","England","Male",0.493567782867943,1
+"17-19","Level 1 0~19k","Level 5","AgeOver85","Single","England","Female",0.647960702172947,1
+"17-19","Level 4 60~99k","Level 5","Age46-65","Married","Wales","Male",-0.444603749571854,0
+"17-19","Level 1 0~19k","Level 7","Age46-65","Single","England","Male",-0.204451602789836,1
+"17-19","Level 3 40~59k","Level 6","Age66-85","Married","England","Male",0.56446879499569,1
+"16 or under","Level 2 20~39k","Level 2","Age46-65","Married","England","Male",0.61006388954814,1
+"17-19","Level 2 20~39k","Level 6","Age66-85","Married","England","Female",-0.109070590185939,1
+"17-19","Level 2 20~39k","Level 6","Age66-85","Married","Scotland","Male",-0.353158146943464,0
+"16 or under","Level 2 20~39k","Level 7","Age46-65","Single","England","Male",-0.230342235034805,1
+"16 or under","Level 2 20~39k","Level 2","Age36-45","Single","Scotland","Female",0.467657404108383,0
+"17-19","Level 2 20~39k","Level 2","Age46-65","Married","England","Male",-0.784314767152297,1
+"16 or under","Level 3 40~59k","Level 4","Age46-65","Married","England","Male",-0.0947266532762003,0
+"17-19","Level 2 20~39k","Level 6","Age36-45","Single","England","Female",0.589085318551243,1
+"16 or under","Level 3 40~59k","Level 5","Age46-65","Married","England","Male",-1.23313763254178,1
+"20 or above","Level 1 0~19k","Level 2","Age46-65","Single","England","Male",0.306690133002301,1
+"16 or under","Level 1 0~19k","Level 6","Age46-65","Married","England","Female",-0.464920304212252,0
+"16 or under","Level 1 0~19k","Level 6","Age46-65","Single","England","Male",0,1
+"20 or above","Level 1 0~19k","Level 6","Age66-85","Single","England","Male",0.314930869142614,1
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Single","Scotland","Male",0.518551439804314,1
+"16 or under","Level 2 20~39k","Level 7","Age46-65","Married","England","Male",-0.510378048218075,1
+"16 or under","Level 1 0~19k","Level 1","Age36-45","Single","England","Male",-1.613261487283,0
+"20 or above","Level 4 60~99k","Level 5","Age36-45","Single","England","Male",0,0
+"20 or above","Level 5 100k or above","Level 7","AgeOver85","Married","England","Female",-0.280415973794018,0
+"16 or under","Level 2 20~39k","Level 3","Age46-65","Married","England","Male",-0.349372339885151,1
+"20 or above","Level 3 40~59k","Level 6","Age46-65","Married","Wales","Male",-0.0697786165313879,0
+"20 or above","Level 4 60~99k","Level 6","Age36-45","Married","England","Female",-1.01442335982473,0
+"17-19","Level 4 60~99k","Level 6","Age46-65","Single","England","Female",-0.094677910730006,0
+"16 or under","Level 1 0~19k","Level 1","Age46-65","Single","England","Male",-2.15637837273102,0
+"17-19","Level 2 20~39k","Level 6","Age46-65","Married","England","Female",-0.990359000769372,0
+"16 or under","Level 3 40~59k","Level 5","Age66-85","Married","England","Male",0.154692402658194,1
+"20 or above","Level 1 0~19k","Level 5","Age46-65","Single","England","Female",-0.644993682707136,1
+"16 or under","Level 1 0~19k","Level 5","Age46-65","Single","England","Female",0,1
+"20 or above","Level 3 40~59k","Level 5","Age46-65","Married","England","Female",-0.955217506116371,0
+"20 or above","Level 2 20~39k","Level 7","Age66-85","Single","England","Female",-0.156123690474381,0
+"16 or under","Level 3 40~59k","Level 3","Age46-65","Married","Wales","Male",0,1
+"17-19","Level 4 60~99k","Level 6","Age46-65","Married","Wales","Male",0.146914784509147,1
+"16 or under","Level 2 20~39k","Level 1","Age36-45","Single","England","Female",0.544112433508525,1
+"20 or above","Level 2 20~39k","Level 6","Age66-85","Single","Scotland","Female",0.0674861921123249,1
+"20 or above","Level 4 60~99k","Level 7","Age46-65","Married","England","Female",-0.609855242849079,0
+"20 or above","Level 4 60~99k","Level 7","Age46-65","Married","Scotland","Male",-0.238999314968284,0
+"17-19","Level 1 0~19k","Level 5","Age66-85","Single","England","Male",0,1
+"17-19","Level 2 20~39k","Level 6","Age46-65","Married","England","Female",0,0
+"16 or under","Level 1 0~19k","Level 2","Age66-85","Married","England","Female",0.0937216295217289,1
+"17-19","Level 3 40~59k","Level 7","Age46-65","Married","England","Male",-0.882644429074943,0
+"16 or under","Level 3 40~59k","Level 7","Age46-65","Married","England","Male",-0.640627929676566,0
+"20 or above","Level 2 20~39k","Level 6","Age19-35","Single","England","Female",-1.87604400093802,0
+"16 or under","Level 1 0~19k","Level 1","Age46-65","Married","Wales","Male",-1.63994876854585,0
+"17-19","Level 2 20~39k","Level 6","Age46-65","Married","England","Male",-0.251317901346944,0
+"16 or under","Level 4 60~99k","Level 8","Age46-65","Married","England","Female",0.481343051068713,1
+"17-19","Level 5 100k or above","Level 7","Age36-45","Married","England","Male",-0.493567782867943,0
+"20 or above","Level 2 20~39k","Level 7","AgeOver85","Single","England","Male",-0.449624616531827,0
+"16 or under","Level 2 20~39k","Level 6","Age66-85","Married","England","Male",0.319722205928175,1
+"16 or under","Level 4 60~99k","Level 5","Age46-65","Married","England","Female",-0.438432427417544,0
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Single","England","Female",-0.142218790464033,1
+"17-19","Level 2 20~39k","Level 6","Age46-65","Married","England","Male",0.139500214334324,1
+"16 or under","Level 1 0~19k","Level 2","Age46-65","Married","England","Male",-0.306574523813317,0
+"17-19","Level 3 40~59k","Level 5","Age46-65","Married","England","Female",0.664910351973959,1
+"17-19","Level 2 20~39k","Level 7","Age66-85","Married","England","Male",0,1
+"16 or under","Level 2 20~39k","Level 1","Age66-85","Married","England","Female",-0.178854731932166,1
+"20 or above","Level 3 40~59k","Level 6","Age46-65","Married","England","Male",-0.603203744657692,0
+"16 or under","Level 2 20~39k","Level 2","Age36-45","Married","England","Female",0.53256483994802,1
+"16 or under","Level 1 0~19k","Level 7","Age66-85","Single","England","Male",-0.111018500222037,0
+"20 or above","Level 2 20~39k","Level 3","Age46-65","Married","England","Female",-0.116851032564045,1
+"16 or under","Level 2 20~39k","Level 3","Age66-85","Married","England","Female",0.524385697412723,1
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Single","England","Female",-0.108832287812325,1
+"16 or under","Level 1 0~19k","Level 6","Age46-65","Married","England","Male",0.60787009694509,1
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Married","England","Male",-0.383961909799678,0
+"16 or under","Level 2 20~39k","Level 6","Age66-85","Married","England","Male",0.125190437090375,1
+"20 or above","Level 2 20~39k","Level 1","Age46-65","Married","Scotland","Male",-0.476597780083196,0
+"20 or above","Level 1 0~19k","Level 5","Age36-45","Single","England","Female",-0.720834196219178,0
+"16 or under","Level 2 20~39k","Level 5","Age66-85","Married","England","Female",1.54343548614607,1
+"16 or under","Level 3 40~59k","Level 3","Age66-85","Married","England","Male",-0.3247931468764,0
+"17-19","Level 2 20~39k","Level 3","AgeOver85","Single","England","Male",0.477877562665389,1
+"20 or above","Level 2 20~39k","Level 6","AgeOver85","Married","England","Female",-0.39442029466151,0
+"20 or above","Level 4 60~99k","Level 5","Age46-65","Married","England","Female",0,0
+"20 or above","Level 1 0~19k","Level 7","Age66-85","Married","England","Male",0.131906553029468,1
+"20 or above","Level 3 40~59k","Level 3","Age46-65","Married","England","Male",0.605323161114787,1
+"17-19","Level 3 40~59k","Level 5","Age46-65","Married","Wales","Female",0,1
+"20 or above","Level 1 0~19k","Level 2","Age46-65","Single","England","Male",-0.144364582488378,0
+"16 or under","Level 1 0~19k","Level 3","Age66-85","Married","England","Male",0.132312300971577,1
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Single","Scotland","Male",1.28572479413949,1
+"20 or above","Level 2 20~39k","Level 5","AgeOver85","Single","England","Female",-0.857188015360166,0
+"16 or under","Level 1 0~19k","Level 1","Age46-65","Married","England","Male",-0.615806132566458,1
+"16 or under","Level 4 60~99k","Level 7","Age46-65","Married","England","Male",0.373985810878481,1
+"16 or under","Level 3 40~59k","Level 6","Age66-85","Married","Scotland","Male",-0.306201887868053,0
+"16 or under","Level 2 20~39k","Level 6","Age46-65","Married","England","Male",0.573611685639244,1
+"16 or under","Level 1 0~19k","Level 5","Age46-65","Single","England","Male",0,1
+"20 or above","Level 1 0~19k","Level 3","Age46-65","Married","Scotland","Male",-0.736811501903858,0
+"16 or under","Level 2 20~39k","Level 6","Age66-85","Married","England","Male",0.254191148002334,1
+"16 or under","Level 2 20~39k","Level 3","Age46-65","Single","Scotland","Male",-0.267064165448144,0
+"20 or above","Level 2 20~39k","Level 8","AgeOver85","Single","England","Female",-0.241750220340575,0
+"20 or above","Level 3 40~59k","Level 6","AgeOver85","Married","England","Female",0.126325834984647,0
+"17-19","Level 2 20~39k","Level 6","Age46-65","Married","England","Female",0.63735737890606,0
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Married","Scotland","Female",-0.457264499811455,0
+"16 or under","Level 2 20~39k","Level 6","Age46-65","Single","England","Female",-0.311309226762837,1
+"16 or under","Level 1 0~19k","Level 4","AgeOver85","Single","England","Male",-0.477853158692376,0
+"20 or above","Level 4 60~99k","Level 6","Age46-65","Single","England","Male",-0.505038300636131,0
+"20 or above","Level 3 40~59k","Level 7","AgeOver85","Married","Wales","Female",0.311453643055457,0
+"20 or above","Level 1 0~19k","Level 7","Age66-85","Single","England","Male",0,0
+"17-19","Level 1 0~19k","Level 2","Age66-85","Married","England","Male",-0.128883754077955,1
+"16 or under","Level 1 0~19k","Level 2","Age46-65","Married","Scotland","Female",0.311222645116682,1
+"16 or under","Level 1 0~19k","Level 2","Age66-85","Single","England","Female",0.113769891908825,1
+"17-19","Level 1 0~19k","Level 5","Age46-65","Single","England","Female",-0.301841442690406,1
+"20 or above","Level 1 0~19k","Level 6","Age46-65","Single","England","Male",0.656633536141873,1
+"20 or above","Level 2 20~39k","Level 5","Age46-65","Married","Scotland","Female",0.508762027138383,0
+"16 or under","Level 3 40~59k","Level 6","Age66-85","Married","England","Male",0.338423844660069,0
+"20 or above","Level 3 40~59k","Level 6","Age36-45","Married","England","Female",-0.301973734087808,0
+"17-19","Level 3 40~59k","Level 6","Age36-45","Married","England","Male",-0.502726750249598,0
+"17-19","Level 3 40~59k","Level 5","Age46-65","Married","England","Female",0.0650579940333284,0
+"20 or above","Level 4 60~99k","Level 8","Age36-45","Married","England","Male",-0.548000575220768,0
+"20 or above","Level 2 20~39k","Level 7","Age46-65","Single","England","Male",-0.531261150862201,0
+"20 or above","Level 3 40~59k","Level 7","Age36-45","Single","England","Female",-0.330055937399791,0
+"16 or under","Level 4 60~99k","Level 3","Age46-65","Single","England","Male",1.229081812421,1
+"17-19","Level 4 60~99k","Level 5","Age46-65","Married","Scotland","Female",0.740989065326629,0
+"17-19","Level 2 20~39k","Level 6","Age66-85","Single","Wales","Female",0.889590657075942,1
+"20 or above","Level 2 20~39k","Level 5","Age46-65","Single","England","Female",-0.199891735205753,0
+"17-19","Level 1 0~19k","Level 5","Age46-65","Single","England","Female",-0.761793539450253,0
+"20 or above","Level 3 40~59k","Level 4","Age36-45","Married","England","Male",-0.871656883677686,0
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Single","England","Female",-0.0572832407866593,0
+"16 or under","Level 2 20~39k","Level 4","Age66-85","Married","England","Female",-0.142707533309469,0
+"17-19","Level 3 40~59k","Level 6","Age46-65","Married","Scotland","Male",0.0930286861218983,0
+"16 or under","Level 2 20~39k","Level 7","Age66-85","Married","England","Male",-0.0759228070515342,1
+"16 or under","Level 3 40~59k","Level 5","Age36-45","Single","England","Male",-0.232774405629539,0
+"16 or under","Level 1 0~19k","Level 2","Age46-65","Married","England","Female",1.19224064269517e-17,1
+"17-19","Level 1 0~19k","Level 5","Age46-65","Married","England","Male",-1.0508169560699,1
+"16 or under","Level 2 20~39k","Level 6","Age66-85","Single","England","Female",0.575115630393916,1
+"16 or under","Level 1 0~19k","Level 2","Age46-65","Married","Wales","Female",-0.407820848925332,0
+"20 or above","Level 1 0~19k","Level 7","Age66-85","Married","England","Male",0.07120416220543,1
+"20 or above","Level 4 60~99k","Level 7","Age36-45","Married","England","Male",-1.25416022063802,0
+"20 or above","Level 4 60~99k","Level 6","Age46-65","Married","England","Female",-0.474188408686249,0
+"16 or under","Level 1 0~19k","Level 2","Age66-85","Married","England","Female",-0.0634746296867699,1
+"16 or under","Level 1 0~19k","Level 6","Age66-85","Single","England","Female",0.374137489108342,1
+"16 or under","Level 3 40~59k","Level 5","Age46-65","Married","England","Female",0.60934613297113,0
+"17-19","Level 3 40~59k","Level 5","Age46-65","Married","England","Female",-0.524269493825711,0
+"17-19","Level 2 20~39k","Level 6","Age46-65","Single","England","Female",0.969285047262308,1
+"17-19","Level 2 20~39k","Level 5","Age46-65","Single","England","Female",0.0850282345709732,0
+"17-19","Level 2 20~39k","Level 3","Age46-65","Single","Scotland","Male",0.760780476790688,1
+"20 or above","Level 2 20~39k","Level 6","Age36-45","Single","England","Female",-0.300357086886836,1
+"20 or above","Level 3 40~59k","Level 2","Age19-35","Single","Scotland","Female",-0.309365727765657,0
+"20 or above","Level 1 0~19k","Level 4","Age36-45","Single","Scotland","Female",-0.140801808355787,0
+"16 or under","Level 1 0~19k","Level 4","Age66-85","Single","England","Male",2.25498772629806,0
+"20 or above","Level 4 60~99k","Level 6","Age36-45","Married","England","Female",-0.0443447759645043,1
+"16 or under","Level 2 20~39k","Level 2","Age46-65","Married","Scotland","Female",-0.611741226716225,1
+"20 or above","Level 2 20~39k","Level 3","Age46-65","Married","England","Male",-0.617260622215094,0
+"20 or above","Level 4 60~99k","Level 6","Age36-45","Married","England","Female",-0.769661296008016,0
+"17-19","Level 4 60~99k","Level 7","AgeOver85","Single","England","Female",-0.209410531672196,0
+"17-19","Level 2 20~39k","Level 5","Age66-85","Married","England","Female",-0.453218288739848,1
+"20 or above","Level 1 0~19k","Level 3","Age46-65","Single","England","Male",0.62157587364874,1
+"20 or above","Level 3 40~59k","Level 7","AgeOver85","Single","England","Male",0.0635710760324492,1
+"17-19","Level 2 20~39k","Level 2","Age46-65","Married","England","Female",-0.277382032947154,0
+"17-19","Level 2 20~39k","Level 5","Age46-65","Married","England","Female",0.419800276572716,1
+"20 or above","Level 2 20~39k","Level 7","AgeOver85","Single","England","Female",-0.218299224537092,0
+"20 or above","Level 2 20~39k","Level 7","Age36-45","Single","England","Male",-0.187076973674462,1
+"20 or above","Level 2 20~39k","Level 5","Age46-65","Married","England","Female",-0.470348569697159,0
+"17-19","Level 2 20~39k","Level 5","Age66-85","Married","England","Male",0.0589164897444498,1
+"16 or under","Level 2 20~39k","Level 4","Age46-65","Married","Scotland","Female",-0.554484422372196,0
+"20 or above","Level 4 60~99k","Level 6","Age36-45","Married","England","Male",-0.253527900970457,0
+"16 or under","Level 2 20~39k","Level 5","Age46-65","Single","England","Female",-0.314394341558949,0
+"16 or under","Level 1 0~19k","Level 5","Age46-65","Single","England","Female",0,1
+"20 or above","Level 4 60~99k","Level 6","AgeOver85","Married","England","Female",0.334194348627162,1
+"16 or under","Level 2 20~39k","Level 5","Age36-45","Single","England","Male",-0.101743966842115,1
+"16 or under","Level 2 20~39k","Level 6","Age66-85","Married","England","Female",-0.162859519804345,1
+"16 or under","Level 2 20~39k","Level 5","Age66-85","Married","England","Female",0.806247956490263,1
+"17-19","Level 2 20~39k","Level 5","Age46-65","Married","England","Female",0,0
+"16 or under","Level 1 0~19k","Level 3","Age66-85","Single","England","Female",0.235778814808595,1
+"16 or under","Level 4 60~99k","Level 6","Age46-65","Married","England","Male",0.750207758326984,1
+"17-19","Level 1 0~19k","Level 4","Age46-65","Single","England","Male",-0.90103331061547,0
+"20 or above","Level 1 0~19k","Level 6","Age66-85","Single","England","Female",-0.205398439532032,1
+"20 or above","Level 2 20~39k","Level 6","Age46-65","Married","England","Male",-1.58656727918672,0
+"16 or under","Level 2 20~39k","Level 5","Age66-85","Married","England","Female",0.0952097039623572,1
+"20 or above","Level 4 60~99k","Level 7","Age46-65","Married","Wales","Female",-0.339451105871746,0
+"16 or under","Level 4 60~99k","Level 3","Age36-45","Single","England","Male",1.5484590258973,1
+"16 or under","Level 1 0~19k","Level 7","Age66-85","Married","England","Female",0.249617022294472,1
+"20 or above","Level 1 0~19k","Level 7","Age36-45","Married","Scotland","Female",-1.01587404127403,0
+"20 or above","Level 4 60~99k","Level 6","Age66-85","Single","England","Female",-0.258599519544138,0
+"16 or under","Level 3 40~59k","Level 1","Age46-65","Married","England","Male",0.256785956933616,1
+"20 or above","Level 3 40~59k","Level 4","Age46-65","Single","England","Female",-0.435971551114487,0
+"20 or above","Level 3 40~59k","Level 7","Age66-85","Married","England","Female",0,1
+"17-19","Level 2 20~39k","Level 8","Age46-65","Married","England","Male",0.135078280771216,1
+"17-19","Level 2 20~39k","Level 5","Age66-85","Single","England","Female",0.0460366175247134,1
+"17-19","Level 4 60~99k","Level 8","Age66-85","Married","England","Male",-0.0766030801615874,1
+"16 or under","Level 2 20~39k","Level 6","Age46-65","Single","England","Female",-0.17102655354098,1
+"17-19","Level 4 60~99k","Level 5","Age46-65","Married","England","Female",-0.226934338324058,0
+"16 or under","Level 2 20~39k","Level 4","Age46-65","Single","England","Male",-0.209874747401024,1
+"16 or under","Level 1 0~19k","Level 1","Age66-85","Single","England","Female",0,1
+"16 or under","Level 1 0~19k","Level 5","Age46-65","Single","England","Female",-0.838415428388538,1
+"17-19","Level 3 40~59k","Level 6","Age46-65","Married","England","Male",-0.478971280653643,0
